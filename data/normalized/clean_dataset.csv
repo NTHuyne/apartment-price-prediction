@@ -255,6 +255,7 @@ Vinhomes Smart City,,,,,Đường Đại Mỗ,Phường Đại Mỗ,Quận Nam T
 Masteri West Heights,,,,,,Phường Đại Mỗ,Quận Nam Từ Liêm,60.0,4.75,
 Khu đô thị mới Linh Đàm,,,,,,Phường Đại Kim,Quận Hoàng Mai,60.0,2.35,
 Goldmark City,,,,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,99.0,5.0,
+Phường Mỹ Đình 2,,Giấy chứng nhận quyền sở hữu đất,,,,,Quận Nam Từ Liêm,155.0,6.5,
 Phố Hồng Tiến,,,,,Phố Hồng Tiến,Phường Bồ Đề,Quận Long Biên,72.0,4.69,
 Vinhomes Smart City,Đông Bắc,Giấy chứng nhận quyền sở hữu đất,,,Đường Đại Mỗ,Phường Đại Mỗ,Quận Nam Từ Liêm,64.0,4.05,
 Khu đô thị FLC Garden City,,Giấy chứng nhận quyền sở hữu đất,,,Đường Ngọc Đại,Phường Đại Mỗ,Quận Nam Từ Liêm,65.0,3.45,
@@ -881,6 +882,7 @@ Khu đô thị mới Linh Đàm,,,2.0,,Đường Linh Đàm,Phường Đại Kim
 Nam Xa La,,,3.0,,Đường Xa La,Phường Phúc La,Quận Hà Đông,103.0,2.55,
 Khu đô thị mới Xa La,,,2.0,,Phố Phùng Hưng,Phường Phúc La,Quận Hà Đông,75.0,2.08,
 Tháp Doanh Nhân - Boss Tower,,,1.0,,Đường Thanh Bình,Phường Mỗ Lao,Quận Hà Đông,51.0,1.06,
+Mulberry Lane,,,4.0,,,Phường Mỗ Lao,Quận Hà Đông,151.0,5.9,
 Vinhomes D' Capitale‎ Trần Duy Hưng,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,51.0,2.3,
 Sunshine Center,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,107.0,6.0,
 Vinhomes Ocean Park,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,30.0,0.9,
@@ -1259,6 +1261,7 @@ HPC Landmark 105,,,3.0,,,Phường La Khê,Quận Hà Đông,107.0,3.6,
 N05,,,3.0,,,,Quận Cầu Giấy,145.0,6.09,
 Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,141.0,5.5,
 Mulberry Lane,,,2.0,,,Phường Mỗ Lao,Quận Hà Đông,90.0,2.8,
+The Park Home,,,4.0,,,,Quận Cầu Giấy,154.0,8.9,
 HC Golden City,,,3.0,,,Phường Bồ Đề,Quận Long Biên,87.0,4.1,
 Phường Thổ Quan,,,2.0,,,,Quận Đống Đa,58.0,2.4,
 The Zurich,,,3.0,,,,Huyện Gia Lâm,115.0,4.6,
@@ -1474,6 +1477,7 @@ Vinhomes Ocean Park,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,70.0,1.95,
 Mulberry Lane,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,123.0,4.4,
 Seasons Avenue,,,4.0,,,Phường Mỗ Lao,Quận Hà Đông,133.0,5.9,
 The Sparks Dương Nội,,,2.0,,Đường Tố Hữu,Phường Dương Nội,Quận Hà Đông,86.0,1.95,
+Khu đô thị Văn Khê,,,3.0,,Đường Văn Khê,Phường La Khê,Quận Hà Đông,155.0,3.7,
 HPC Landmark 105,,,4.0,,,Phường La Khê,Quận Hà Đông,143.0,4.8,
 Ecolife Capitol,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,75.0,3.0,
 Bắc Hà Tower C37 Bộ Công An,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,117.0,3.6,
@@ -1504,6 +1508,7 @@ Seasons Avenue,,,2.0,,,Phường Mỗ Lao,Quận Hà Đông,76.0,3.3,
 Khu đô thị Vinhomes SkyLake,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 1,Quận Nam Từ Liêm,130.0,9.0,
 Chung cư Bộ Tổng Tham Mưu,,,2.0,,Đường Nhân Mỹ,Phường Mỹ Đình 1,Quận Nam Từ Liêm,74.0,2.2,
 C14 - Bộ Công An,,,2.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,75.0,2.4,
+Ecolife Capitol,,,4.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,154.0,5.54,
 Khu đô thị Mỹ Đình I,,,2.0,,Đường Nguyễn Cơ Thạch,Phường Mỹ Đình 1,Quận Nam Từ Liêm,58.0,1.99,
 An Lạc - Mỹ Đình,,,2.0,,Đường Lưu Hữu Phước,Phường Mỹ Đình 1,Quận Nam Từ Liêm,83.0,2.5,
 Moonlight I,,,3.0,,,Xã An Khánh,Huyện Hoài Đức,80.0,3.52,
@@ -1548,6 +1553,7 @@ The Zenpark,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,81.0,3.38,
 Khu đô thị Mỹ Đình I,,,2.0,,Đường Hàm Nghi,Phường Mỹ Đình 1,Quận Nam Từ Liêm,63.0,2.3,
 The Emerald CT8 Mỹ Đình,,,3.0,,,Phường Mỹ Đình 1,Quận Nam Từ Liêm,104.0,4.1,
 Goldmark City,,,3.0,,,,Quận Bắc Từ Liêm,139.0,4.0,
+The Park Home,,,4.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,154.0,9.4,
 Đường Trần Phú,,,2.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,75.0,2.2,
 Trung tâm thương mại TSQ,,,2.0,,,Phường Mỗ Lao,Quận Hà Đông,75.0,2.25,
 Roman Plaza,,,3.0,,,,Quận Nam Từ Liêm,103.0,4.7,
@@ -1782,6 +1788,7 @@ Le Grand Jardin Sài Đồng,,,3.0,,Đường Huỳnh Văn Nghệ,Phường Sài
 Sunshine Palace,,,2.0,,Đường Lĩnh Nam,Phường Mai Động,Quận Hoàng Mai,80.0,3.0,
 Đồng Phát Park View Tower,,,2.0,,Đường Tân Mai,Phường Vĩnh Hưng,Quận Hoàng Mai,67.0,2.15,
 Đường Nguyễn Cơ Thạch,,,2.0,,Đường Nguyễn Cơ Thạch,Phường Mỹ Đình 1,Quận Nam Từ Liêm,63.0,2.45,
+Phường Mỹ Đình 1,,,3.0,,,,Quận Nam Từ Liêm,156.0,4.15,
 Đường Nguyễn Trãi,,,2.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,102.0,3.7,
 Đường Nguyễn Trãi,,,,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,113.0,3.73,
 Green Park Tower,,,2.0,,,,Quận Cầu Giấy,97.0,4.1,
@@ -1913,6 +1920,7 @@ Thăng Long Number One,,,3.0,,,,Quận Cầu Giấy,143.0,6.5,
 HH3 Linh Đàm,,,3.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,83.0,1.96,
 HH4 Linh Đàm,,,2.0,,Đường Linh Đàm,,Quận Hoàng Mai,57.0,1.63,
 Samsora Premier 105,,,2.0,,Đường Chu Văn An,Phường Yết Kiêu,Quận Hà Đông,60.0,2.6,
+Mulberry Lane,,,3.0,,,,Quận Hà Đông,154.0,6.4,
 Vinhomes Ocean Park,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,60.0,1.6,
 Vinhomes Ocean Park,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,46.0,1.73,
 Hanhomes Blue Star,,,2.0,,Đường Võ Trung Thành,,Huyện Gia Lâm,60.0,1.68,
@@ -1992,6 +2000,7 @@ Vinhomes Ocean Park,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,43.0,1.4,
 The Zenpark,,,3.0,,,Xã Dương Xá,Huyện Gia Lâm,90.0,3.8,
 Khu đô thị Kim Chung - Di Trạch,,,3.0,,,,Huyện Hoài Đức,100.0,3.5,
 Sunshine Palace,,,2.0,,Đường Lĩnh Nam,Phường Mai Động,Quận Hoàng Mai,85.0,3.25,
+Sông Đà Hà Đông Tower,,,3.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,155.0,4.2,
 Đường Nguyễn Trãi,,,2.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,90.0,3.69,
 Hồng Hà Tower,,,2.0,,Đường Thịnh Liệt,Phường Thịnh Liệt,Quận Hoàng Mai,66.0,2.25,
 Sunshine Palace,,,2.0,,Đường Lĩnh Nam,Phường Mai Động,Quận Hoàng Mai,80.0,3.26,
@@ -2061,6 +2070,7 @@ The Zurich,,,2.0,,,Xã Đa Tốn,Huyện Gia Lâm,96.0,4.25,
 Northern Diamond,,,3.0,,,Phường Long Biên,Quận Long Biên,95.0,3.5,
 Northern Diamond,,,3.0,,,Phường Long Biên,Quận Long Biên,141.0,5.5,
 Đường Nguyễn Trãi,,,3.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,103.0,4.7,
+Đường Nguyễn Trãi,,,3.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,151.0,5.13,
 HH3 Linh Đàm,,,2.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,60.0,1.59,
 C14 Bộ Quốc Phòng,,,2.0,,,,Quận Hoàng Mai,60.0,1.82,
 Phố Trần Quốc Hoàn,,,2.0,,Phố Trần Quốc Hoàn,Phường Mai Dịch,Quận Cầu Giấy,70.0,2.15,
@@ -2556,6 +2566,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Nguyễn Khuyến,Phường Văn Quán,Quận Hà Đông,80.0,4.45,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,24.0,Phố Ngụy Như Kon Tum,Phường Nhân Chính,Quận Thanh Xuân,80.0,5.39,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,127.0,7.8,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,30.0,Đường Dương Khuê,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.8,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,34.0,Đường Đại Kim,Phường Đại Kim,Quận Hoàng Mai,54.0,2.95,
 ,,Giấy chứng nhận quyền sở hữu đất,10.0,6.0,Đường Kim Mã,Phường Kim Mã,Quận Ba Đình,50.0,10.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,4.0,Phố Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,70.0,3.5,
@@ -2806,6 +2817,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Phố Hạ Đình,Phường Hạ Đình,Quận Thanh Xuân,103.0,5.05,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Phố Hạ Đình,Phường Hạ Đình,Quận Thanh Xuân,103.0,5.05,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,108.0,6.7,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,2.0,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Nguyễn Khuyến,Phường Văn Quán,Quận Hà Đông,112.0,4.68,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Kim Giang,Phường Kim Giang,Quận Thanh Xuân,103.0,6.8,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Hoàng Đạo Thúy,Phường Nhân Chính,Quận Thanh Xuân,120.0,6.2,
@@ -2967,6 +2979,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,30.0,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,110.0,5.8,
 ,,,3.0,3.0,Đường Nguyễn Xiển,Phường Hạ Đình,Quận Thanh Xuân,110.0,5.15,
 ,,,5.0,5.0,Đường Hoàng Minh Giám,Phường Nhân Chính,Quận Thanh Xuân,75.0,4.4,
+,,,3.0,30.0,Đường Dương Khuê,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,6.8,
 ,,,3.0,5.0,Phố Thái Hà,Phường Láng Hạ,Quận Đống Đa,110.0,7.55,
 ,,,3.0,13.0,Đường Nguyễn Trãi,Phường Hạ Đình,Quận Thanh Xuân,135.0,8.1,
 ,,,3.0,15.0,Đường Trung Văn,Phường Trung Văn,Quận Nam Từ Liêm,115.0,4.9,
@@ -3136,6 +3149,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Lương Thế Vinh,Phường Mễ Trì,Quận Nam Từ Liêm,62.0,3.64,
 ,,Giấy tờ hợp lệ,2.0,1.0,Đường Ngọc Hồi,Phường Hoàng Liệt,Quận Hoàng Mai,79.0,4.7,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Nguyễn Trãi,Phường Khương Trung,Quận Thanh Xuân,106.0,8.7,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,151.0,9.81,
 ,,Giấy tờ hợp lệ,2.0,1.0,,Phường Dịch Vọng Hậu,Quận Cầu Giấy,83.0,5.3,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Hàm Nghi,Phường Mỹ Đình 2,Quận Nam Từ Liêm,86.0,6.8,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Yên Hòa,Phường Yên Hòa,Quận Cầu Giấy,80.0,5.7,
@@ -3263,6 +3277,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,10.0,5.0,Đường Mỹ Đình,Phường Mỹ Đình 1,Quận Nam Từ Liêm,60.0,9.6,
 ,,Giấy chứng nhận quyền sở hữu đất,13.0,7.0,Đường Lê Quang Đạo,Phường Phú Đô,Quận Nam Từ Liêm,58.0,8.3,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,100.0,6.35,
+,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,6.6,
 ,,,2.0,,Đường Trung Yên,Phường Trung Hòa,Quận Cầu Giấy,105.0,5.4,
 ,,,2.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 1,Quận Nam Từ Liêm,128.0,6.33,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,10.0,Đường Hoàng Minh Giám,Phường Trung Hòa,Quận Cầu Giấy,98.0,4.35,
@@ -3277,6 +3292,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,,Phố Trần Bình,Phường Mai Dịch,Quận Cầu Giấy,81.0,3.86,
 ,,,2.0,,Phố Nguyễn Ngọc Vũ,Phường Trung Hòa,Quận Cầu Giấy,67.0,3.6,
 ,,,3.0,,Đường Trần Hữu Dực,Phường Cầu Diễn,Quận Nam Từ Liêm,135.0,7.6,
+,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.8,
 ,,,2.0,,Phố Trần Đăng Ninh,Phường Dịch Vọng,Quận Cầu Giấy,65.0,4.3,
 ,,,2.0,,Đường Hồ Tùng Mậu,Phường Mai Dịch,Quận Cầu Giấy,100.0,3.95,
 ,,,2.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,77.0,4.1,
@@ -3380,6 +3396,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,,Phố Trần Bình,Phường Mai Dịch,Quận Cầu Giấy,57.0,1.8,
 ,,,2.0,,Phố Trần Thái Tông,Phường Dịch Vọng Hậu,Quận Cầu Giấy,100.0,6.75,
 ,,,3.0,,Đường Xuân Tảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,96.0,7.68,
+,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,7.3,
 ,,,3.0,18.0,Đường Láng Hạ,Phường Láng Hạ,Quận Đống Đa,150.0,10.0,
 ,Đông Nam,Giấy chứng nhận quyền sở hữu đất,3.0,10.0,,Phường Trung Hòa,Quận Cầu Giấy,146.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Ngọc Hà,Phường Ngọc Hà,Quận Ba Đình,90.0,3.8,
@@ -3397,6 +3414,8 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,Đông Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,18.0,Phố Ngụy Như Kon Tum,Phường Nhân Chính,Quận Thanh Xuân,92.0,6.5,
 ,Đông Nam,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Lĩnh Nam,Phường Lĩnh Nam,Quận Hoàng Mai,112.0,4.68,
 ,Tây Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,110.0,7.5,
+,Tây Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,152.0,8.75,
+,Đông Nam,Giấy chứng nhận quyền sở hữu đất,3.0,25.0,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,9.2,
 ,,,3.0,24.0,Đường Tây Mỗ,Phường Tây Mỗ,Quận Nam Từ Liêm,94.0,6.0,
 ,,,2.0,,Phố Trần Thái Tông,Phường Dịch Vọng,Quận Cầu Giấy,100.0,6.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Nguyễn Văn Cừ,Phường Bồ Đề,Quận Long Biên,110.0,6.9,
@@ -3475,10 +3494,12 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,20.0,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,125.0,8.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Phạm Văn Đồng,Phường Cổ Nhuế 2,Quận Bắc Từ Liêm,100.0,4.2,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,20.0,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,110.0,6.5,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,15.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,6.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,20.0,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,125.0,10.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,9.0,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,110.0,7.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,17.0,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,130.0,9.3,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,8.0,Đường Đỗ Nhuận,Phường Xuân Đỉnh,Quận Bắc Từ Liêm,125.0,6.2,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,22.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.3,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,15.0,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,85.0,6.7,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,10.0,Đường Nguyễn Cơ Thạch,Phường Mỹ Đình 2,Quận Nam Từ Liêm,85.0,4.35,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,35.0,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,105.0,7.4,
@@ -3498,6 +3519,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,25.0,Đường Lĩnh Nam,Phường Mai Động,Quận Hoàng Mai,107.0,6.2,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Phố Tân Mai,Phường Hoàng Văn Thụ,Quận Hoàng Mai,73.0,3.6,
 ,,,3.0,25.0,Đường Vĩnh Hoàng,Phường Vĩnh Hưng,Quận Hoàng Mai,87.0,3.8,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,17.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.35,
 ,Đông Nam,Giấy chứng nhận quyền sở hữu đất,3.0,10.0,,Phường Nhân Chính,Quận Thanh Xuân,105.0,7.7,
 ,,,3.0,,Đường Quang Trung,Phường Quang Trung,Quận Hà Đông,114.0,4.55,
 ,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,132.0,6.65,
@@ -3510,6 +3532,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,15.0,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,83.0,6.3,
 ,,,2.0,6.0,Đường số 2 Gamuda Garden,Phường Trần Phú,Quận Hoàng Mai,80.0,4.3,
 ,,,3.0,14.0,Phố Chính Kinh,Phường Thanh Xuân Trung,Quận Thanh Xuân,113.0,7.0,
+,,,3.0,7.0,Đường Hoàng Đạo Thúy,Phường Nhân Chính,Quận Thanh Xuân,155.0,8.7,
 ,,,3.0,6.0,Đường Lê Văn Thiêm,Phường Nhân Chính,Quận Thanh Xuân,127.0,7.7,
 ,,,3.0,23.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,106.0,7.9,
 ,,,3.0,24.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,125.0,9.5,
@@ -3755,6 +3778,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,120.0,8.0,
 ,,,3.0,,Phố Trung Kính,Phường Yên Hòa,Quận Cầu Giấy,98.0,7.6,
 ,,,3.0,,Đường Nguyễn Tuân,Phường Nhân Chính,Quận Thanh Xuân,106.0,8.5,
+,,,3.0,,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.5,
 ,,,2.0,,Phố Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,81.0,6.1,
 ,,,3.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,140.0,8.4,
 ,,,2.0,,Phố Trung Kính,Phường Yên Hòa,Quận Cầu Giấy,70.0,5.4,
@@ -3843,6 +3867,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy tờ hợp lệ,4.0,,Đường Thanh Bình,Phường Mộ Lao,Quận Hà Đông,150.0,4.7,
 ,,,2.0,2.0,Đường Trần Phú,Phường Mộ Lao,Quận Hà Đông,100.0,4.0,
 ,Bắc,Giấy chứng nhận quyền sở hữu đất,2.0,,Phố Nguyễn Thanh Bình,Phường La Khê,Quận Hà Đông,90.0,3.3,
+,Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,2.0,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,155.0,7.9,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,132.0,4.3,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Phố Nguyễn Thị Thập,Phường Trung Hòa,Quận Cầu Giấy,63.0,3.58,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,106.0,5.99,
@@ -3874,6 +3899,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,16.0,Đường Phú Thượng,Phường Phú Thượng,Quận Tây Hồ,80.0,5.55,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,30.0,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,94.0,4.45,
 ,,Giấy chứng nhận quyền sở hữu đất,4.0,1.0,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,100.0,4.0,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,8.0,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.8,
 ,,,3.0,1.0,Đường Mỹ Đình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,108.0,4.7,
 ,,,2.0,1.0,Đường Tây Mỗ,Phường Tây Mỗ,Quận Nam Từ Liêm,88.0,4.35,
 ,,Giấy chứng nhận quyền sở hữu đất,12.0,6.0,Đường Hồ Tùng Mậu,Phường Mai Dịch,Quận Cầu Giấy,45.0,9.7,
@@ -3938,6 +3964,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,4.0,Đường Trần Hữu Dực,Phường Cầu Diễn,Quận Nam Từ Liêm,60.0,4.7,
 ,,Giấy chứng nhận quyền sở hữu đất,4.0,8.0,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,120.0,7.99,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,23.0,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,81.0,5.3,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,34.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,99.0,7.8,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,6.0,Đường Bưởi,Phường Vĩnh Phúc,Quận Ba Đình,56.0,4.3,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,14.0,Đường Trịnh Văn Bô,Phường Xuân Phương,Quận Nam Từ Liêm,56.0,3.68,
@@ -3995,6 +4022,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Trung Hòa,Phường Yên Hòa,Quận Cầu Giấy,146.0,9.6,
 ,,,2.0,1.0,Phố Trần Bình,Phường Mai Dịch,Quận Cầu Giấy,57.0,1.8,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Phố Trung Kính,Phường Trung Hòa,Quận Cầu Giấy,62.0,4.48,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,7.3,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,65.0,4.6,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Cầu Diễn,Phường Cầu Diễn,Quận Nam Từ Liêm,77.0,4.45,
 ,,,2.0,1.0,Đường Linh Đàm,Phường Hoàng Liệt,Quận Hoàng Mai,70.0,2.86,
@@ -4540,6 +4568,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Hồ Tùng Mậu,Phường Cầu Diễn,Quận Nam Từ Liêm,86.0,3.5,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Hồ Tùng Mậu,Phường Cầu Diễn,Quận Nam Từ Liêm,65.0,2.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Phố Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,70.0,3.5,
+,Tây Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,34.0,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.05,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,2.0,Đường Nguyễn Khuyến,Phường Văn Quán,Quận Hà Đông,76.0,4.45,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Nguyễn Khánh Toàn,Phường Nghĩa Đô,Quận Cầu Giấy,60.0,3.68,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,4.0,Đường Ngọc Hà,Phường Ngọc Hà,Quận Ba Đình,95.0,3.8,
@@ -4927,6 +4956,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,,Phố Ngụy Như Kon Tum,Phường Nhân Chính,Quận Thanh Xuân,89.0,6.3,
 ,,,2.0,6.0,Phố Vĩnh Phúc,Phường Vĩnh Phúc,Quận Ba Đình,50.0,0.85,
 ,,,1.0,5.0,Đường Hoàng Hoa Thám,Phường Ngọc Hà,Quận Ba Đình,35.0,0.7,
+,,,3.0,,Đường Dương Khuê,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.5,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,16.0,Đường Tây Mỗ,Phường Tây Mỗ,Quận Nam Từ Liêm,55.0,2.9,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,20.0,Đường Tây Mỗ,Phường Tây Mỗ,Quận Nam Từ Liêm,71.0,4.2,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,18.0,Đường Tây Mỗ,Phường Tây Mỗ,Quận Nam Từ Liêm,82.0,4.2,
@@ -5192,7 +5222,6 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,17.0,Đường Nguyễn Thị Định,Phường Trung Hòa,Quận Cầu Giấy,70.0,4.3,
 ,,,2.0,7.0,Phố Nguyễn Lương Bằng,Phường Quang Trung,Quận Đống Đa,67.0,5.05,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,10.0,Đường Nguyễn Văn Huyên,Phường Xuân La,Quận Tây Hồ,98.0,9.8,
-,,Giấy chứng nhận quyền sở hữu đất,4.0,25.0,Đường Xuân Tảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,142.0,0.1,
 ,,,,,Đường Đông Thắng,Phường Đông Ngạc,Quận Bắc Từ Liêm,62.0,3.2,
 ,,,3.0,,,Phường Mai Động,Quận Hoàng Mai,90.0,5.99,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Định Công,Phường Định Công,Quận Hoàng Mai,114.0,5.7,
@@ -5212,6 +5241,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,10.0,Đường Hoàng Công Chất,Phường Phú Diễn,Quận Bắc Từ Liêm,77.0,4.25,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Khương Đình,Phường Khương Đình,Quận Thanh Xuân,20.0,2.65,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,122.0,5.6,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.05,
 ,,Giấy tờ hợp lệ,1.0,7.0,Phố Khương Hạ,Phường Khương Đình,Quận Thanh Xuân,43.0,1.43,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,8.0,,Phường Láng Hạ,Quận Đống Đa,122.0,8.9,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,5.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,137.0,6.95,
@@ -5246,6 +5276,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,8.0,Đường Tây Mỗ,Phường Đại Mỗ,Quận Nam Từ Liêm,49.0,2.5,
 ,,Giấy tờ hợp lệ,3.0,1.0,Phố Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,102.0,4.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,9.0,Đường Nguyễn Cảnh Dị,Phường Đại Kim,Quận Hoàng Mai,85.0,3.39,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,155.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,5.0,Đường Nguyễn Trãi,Phường Thanh Xuân Trung,Quận Thanh Xuân,66.0,2.19,
 ,,,2.0,10.0,Đường Sài Đồng,Phường Sài Đồng,Quận Long Biên,75.0,3.1,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,21.0,,Phường Đông Ngạc,Quận Bắc Từ Liêm,70.0,4.3,
@@ -5278,6 +5309,9 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy tờ hợp lệ,3.0,1.0,Đường Thanh Đàm,Phường Thanh Trì,Quận Hoàng Mai,104.0,2.78,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Linh Đàm,Phường Hoàng Liệt,Quận Hoàng Mai,83.0,3.1,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,105.0,6.3,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.5,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Hàm Nghi,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.5,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,7.3,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,81.0,5.2,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Mễ Trì,Phường Mễ Trì,Quận Nam Từ Liêm,89.0,4.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,129.0,6.9,
@@ -5316,13 +5350,13 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,121.0,6.5,
 ,,,3.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,120.0,6.7,
 ,,,3.0,,Đường Xuân Thủy,Phường Dịch Vọng Hậu,Quận Cầu Giấy,123.0,6.5,
+,,,2.0,,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.0,
 ,,,3.0,,Đường Xuân La,Phường Xuân Tảo,Quận Bắc Từ Liêm,98.0,5.3,
 ,,,3.0,,Đường Xuân Tảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,113.0,7.3,
 ,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 1,Quận Nam Từ Liêm,126.0,6.1,
 ,,,3.0,,Đường Hoàng Minh Thảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,132.0,6.8,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Xuân Thủy,Phường Dịch Vọng Hậu,Quận Cầu Giấy,118.0,7.6,
 ,,,2.0,24.0,Đường Tăng Thiết Giáp,Phường Cầu Diễn,Quận Nam Từ Liêm,80.0,5.6,
-,,,3.0,108.0,Đường Đại Lộ Thăng Long,Phường Mễ Trì,Quận Nam Từ Liêm,108.0,5.5,
 ,,,3.0,12.0,Đường Hàm Nghi,Phường Mỹ Đình 1,Quận Nam Từ Liêm,143.0,7.4,
 ,,,2.0,13.0,Đường Nguyễn Cơ Thạch,Phường Mỹ Đình 1,Quận Nam Từ Liêm,93.0,4.2,
 ,,,2.0,19.0,Đường Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,78.0,4.8,
@@ -5350,6 +5384,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,130.0,5.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,5.0,Đường Hoàng Quốc Việt,Phường Nghĩa Tân,Quận Cầu Giấy,36.0,3.45,
 ,Đông Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,27.0,,Phường Mễ Trì,Quận Nam Từ Liêm,113.0,10.0,
+,Tây Nam,Giấy chứng nhận quyền sở hữu đất,3.0,11.0,,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,11.0,,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,102.0,7.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,11.0,,Phường Yên Hòa,Quận Cầu Giấy,135.0,10.0,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,20.0,,Phường Mỹ Đình 2,Quận Nam Từ Liêm,100.0,7.0,
@@ -5495,7 +5530,6 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Phạm Văn Đồng,Phường Đông Ngạc,Quận Bắc Từ Liêm,100.0,6.8,
 ,Đông Nam,Giấy chứng nhận quyền sở hữu đất,2.0,5.0,Đường Đình Thôn,Phường Mỹ Đình 1,Quận Nam Từ Liêm,68.0,3.9,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,30.0,Đường Đình Thôn,Phường Mỹ Đình 1,Quận Nam Từ Liêm,81.0,6.1,
-,,Giấy chứng nhận quyền sở hữu đất,40.0,12.0,Đường Quang Trung,Phường Quang Trung,Quận Hà Đông,100.0,3.55,
 ,,Giấy tờ hợp lệ,2.0,16.0,Đường Trần Phú,Phường Mộ Lao,Quận Hà Đông,90.0,3.4,
 ,,,2.0,1.0,Đường Thanh Nhàn,Phường Quỳnh Lôi,Quận Hai Bà Trưng,50.0,3.5,
 ,,,2.0,1.0,Phố Hồng Mai,Phường Bạch Mai,Quận Hai Bà Trưng,60.0,4.0,
@@ -5683,6 +5717,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Đường Nguyễn Đức Cảnh,Phường Hoàng Văn Thụ,Quận Hoàng Mai,115.0,5.1,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Đền Lừ,Phường Hoàng Văn Thụ,Quận Hoàng Mai,69.0,3.69,
 ,Tây Bắc,Giấy tờ hợp lệ,1.0,1.0,Đường Võ Nguyên Giáp,Xã Vĩnh Ngọc,Huyện Đông Anh,47.0,2.8,
+,,,3.0,7.0,Đường Hoàng Đạo Thúy,Phường Nhân Chính,Quận Thanh Xuân,155.0,9.15,
 ,,,2.0,10.0,Đường Hồ Mễ Trì,Phường Nhân Chính,Quận Thanh Xuân,60.0,3.95,
 ,,,3.0,,Đường Nguyễn Khuyến,Phường Văn Quán,Quận Hà Đông,80.0,4.4,
 ,,,3.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,91.0,4.7,
@@ -5781,6 +5816,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,16.0,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,150.0,9.49,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,6.0,Đường Đại Lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,75.0,4.4,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,15.0,Đường Khuất Duy Tiến,Phường Trung Hòa,Quận Cầu Giấy,120.0,8.0,
+,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 1,Quận Nam Từ Liêm,153.0,6.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Phố Dương Đình Nghệ,Phường Yên Hòa,Quận Cầu Giấy,104.0,7.0,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,8.0,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,100.0,6.6,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,,Phường Dịch Vọng Hậu,Quận Cầu Giấy,141.0,7.56,
@@ -5869,6 +5905,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,,Đường Đại Lộ Thăng Long,Phường Mễ Trì,Quận Nam Từ Liêm,116.0,6.1,
 ,,,2.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,68.0,3.85,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Trần Hữu Dực,Phường Mỹ Đình 1,Quận Nam Từ Liêm,85.0,4.95,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.7,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Đường Nguyễn Hoàng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,68.0,4.75,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Đường Phúc La - Văn Phú,Phường Phúc La,Quận Hà Đông,68.0,2.95,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,16.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,107.0,6.7,
@@ -5904,7 +5941,6 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,5.0,Đường Khu tập thể Thành Công,Phường Thành Công,Quận Ba Đình,38.0,2.4,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,,Phường Láng Thượng,Quận Đống Đa,60.0,3.5,
 ,Tây,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Phố Minh Tảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,100.0,5.2,
-,,Giấy chứng nhận quyền sở hữu đất,95.0,12.0,Đường Hoàng Quốc Việt,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,95.0,6.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,3.0,Đường Nguyễn Chí Thanh,Phường Láng Thượng,Quận Đống Đa,61.0,3.5,
 ,,,2.0,8.0,Đường Thạch Bàn,Phường Thạch Bàn,Quận Long Biên,70.0,3.05,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,10.0,Phố Hồng Tiến,Phường Bồ Đề,Quận Long Biên,72.0,4.5,
@@ -5976,6 +6012,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,Phố Xa La,Phường Phúc La,Quận Hà Đông,89.0,3.85,
 ,,,3.0,8.0,Đường Lê Đức Thọ,Phường Mỹ Đình 1,Quận Nam Từ Liêm,90.0,6.26,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,2.0,Đường Trần Cung,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,63.0,2.1,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,25.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.3,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,3.0,Đường Mai Dịch,Phường Mai Dịch,Quận Cầu Giấy,85.0,3.5,
 ,Nam,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Đông Ngạc,Phường Đông Ngạc,Quận Bắc Từ Liêm,92.0,5.45,
 ,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,72.0,6.6,
@@ -6288,9 +6325,11 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,1.0,,,Phường Đống Mác,Quận Hai Bà Trưng,28.0,0.88,
 ,,,2.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,77.0,4.08,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,16.0,Phố Trần Quý Kiên,Phường Dịch Vọng,Quận Cầu Giấy,62.0,4.15,
+,,,3.0,17.0,Đường Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.18,
 ,,,2.0,13.0,Phố Trần Thái Tông,Phường Dịch Vọng Hậu,Quận Cầu Giấy,100.0,6.75,
 ,,,3.0,27.0,Đường Thành Thái,Phường Dịch Vọng Hậu,Quận Cầu Giấy,130.0,9.2,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Phố Đại Từ,Phường Đại Kim,Quận Hoàng Mai,76.0,4.3,
+,,Giấy chứng nhận quyền sở hữu đất,4.0,21.0,Đường Văn Khê,Phường La Khê,Quận Hà Đông,151.0,5.45,
 ,,,2.0,6.0,Đường Nguyễn Xiển,Phường Đại Kim,Quận Hoàng Mai,57.0,2.97,
 ,,,2.0,32.0,Đường Nguyễn Xiển,Phường Đại Kim,Quận Hoàng Mai,55.0,2.83,
 ,,Giấy tờ hợp lệ,2.0,20.0,Đường Đức Giang,Phường Thượng Thanh,Quận Long Biên,74.0,3.3,
@@ -6483,6 +6522,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,15.0,Đường Hàm Nghi,Phường Cầu Diễn,Quận Nam Từ Liêm,143.0,6.28,
 ,,Giấy chứng nhận quyền sở hữu đất,1.0,3.0,Đường Nhật Tảo,Phường Đông Ngạc,Quận Bắc Từ Liêm,60.0,1.85,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,5.0,Đường Hoàng Quốc Việt,Phường Nghĩa Tân,Quận Cầu Giấy,65.0,3.33,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,32.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,7.5,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,32.0,Đường Đại Mỗ,Phường Đại Mỗ,Quận Nam Từ Liêm,83.0,4.25,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,10.0,Đường Hoàng Quốc Việt,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,117.0,7.3,
 ,,,2.0,8.0,Đường Phạm Văn Đồng,Phường Mai Dịch,Quận Cầu Giấy,70.0,4.5,
@@ -6901,6 +6941,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,16.0,,Phường Nhân Chính,Quận Thanh Xuân,100.0,6.9,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Đường Đại lộ Thăng Long,Xã An Khánh,Huyện Hoài Đức,66.0,3.0,
 ,,Giấy chứng nhận quyền sở hữu đất,1.0,1.0,Đường Mỗ Lao,Phường Mộ Lao,Quận Hà Đông,75.0,3.5,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.5,
 ,Đông Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,125.0,6.45,
 ,Đông Bắc,Giấy chứng nhận quyền sở hữu đất,2.0,27.0,,Phường Xuân La,Quận Tây Hồ,50.0,3.6,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,22.0,Đường Võ Chí Công,Phường Xuân La,Quận Tây Hồ,76.0,5.6,
@@ -7286,6 +7327,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,12.0,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,135.0,7.95,
 ,Tây Nam,Giấy chứng nhận quyền sở hữu đất,2.0,5.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,60.0,3.45,
 ,Đông Nam,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Phố Láng Hạ,Phường Thành Công,Quận Ba Đình,122.0,8.9,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.9,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,30.0,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,144.0,8.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Phố Hạ Đình,Phường Thanh Xuân Trung,Quận Thanh Xuân,120.0,3.75,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,20.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,128.0,6.3,
@@ -7345,6 +7387,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,20.0,Đường Xuân Tảo,Phường Xuân Tảo,Quận Bắc Từ Liêm,75.0,4.7,
 ,,,4.0,21.0,Đường Nguyễn Cơ Thạch,Phường Mỹ Đình 2,Quận Nam Từ Liêm,128.0,7.2,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,1.0,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,55.0,3.45,
+,Tây Bắc,Giấy chứng nhận quyền sở hữu đất,3.0,30.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,155.0,6.49,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,23.0,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,125.0,5.79,
 ,Tây,Giấy chứng nhận quyền sở hữu đất,3.0,10.0,,Phường Quảng An,Quận Tây Hồ,137.0,10.0,
 ,,,2.0,15.0,,Phường Quan Hoa,Quận Cầu Giấy,76.0,5.9,
@@ -7561,6 +7604,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,15.0,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,84.0,4.1,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,11.0,Phố Tân Mai,Phường Hoàng Văn Thụ,Quận Hoàng Mai,45.0,1.9,
 ,,,2.0,6.0,,,Huyện Thanh Oai,76.0,2.7,
+,,,3.0,,Đường Nguyễn Cao Luyện,Phường Việt Hưng,Quận Long Biên,154.0,6.5,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,5.0,Đường Vĩnh Hồ,Phường Thịnh Quang,Quận Đống Đa,36.0,2.85,
 ,,,2.0,29.0,Đường Châu Văn Liêm,Phường Phú Đô,Quận Nam Từ Liêm,73.0,5.6,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,,,Phường Mỹ Đình 2,Quận Nam Từ Liêm,90.0,5.5,
@@ -7688,6 +7732,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,3.0,8.0,Đường Trần Hữu Dực,Phường Mỹ Đình 2,Quận Nam Từ Liêm,94.0,6.5,
 ,,Giấy tờ hợp lệ,2.0,,Đường Cổ Điển A,Xã Tứ Hiệp,Huyện Thanh Trì,70.0,3.65,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,5.0,Phố Phạm Ngọc Thạch,Phường Trung Tự,Quận Đống Đa,100.0,3.7,
+,,Giấy chứng nhận quyền sở hữu đất,3.0,,Đường Hoàng Đạo Thúy,Phường Yên Hòa,Quận Cầu Giấy,153.0,9.0,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,8.0,Đường Phạm Văn Đồng,Phường Đông Ngạc,Quận Bắc Từ Liêm,70.0,3.35,
 ,,Giấy chứng nhận quyền sở hữu đất,2.0,,Phố Trần Quý Kiên,Phường Nghĩa Tân,Quận Cầu Giấy,51.0,3.45,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,1.0,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,94.0,5.25,
@@ -7726,6 +7771,7 @@ Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đ�
 ,,,2.0,8.0,Phố Trần Đăng Ninh,Phường Dịch Vọng,Quận Cầu Giấy,66.0,4.15,
 ,,,2.0,25.0,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,70.0,4.99,
 ,,Giấy chứng nhận quyền sở hữu đất,3.0,30.0,Đường Hàm Nghi,Phường Mỹ Đình 2,Quận Nam Từ Liêm,86.0,5.45,
+,,Giấy chứng nhận quyền sở hữu đất,4.0,30.0,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,7.5,
 ,,,,,Đường Lê Văn Lương,Phường Trung Hòa,Quận Cầu Giấy,78.0,4.45,
 ,,,2.0,1.0,Đường Tam Trinh,Phường Yên Sở,Quận Hoàng Mai,55.0,2.45,
 ,,,2.0,35.0,Đường Xuân Diệu,Phường Quảng An,Quận Tây Hồ,81.0,8.4,
@@ -7860,6 +7906,7 @@ Xuân Mai Complex,,,2.0,,Đường Tố Hữu,Phường Yên Nghĩa,Quận Hà �
 Grand Sunlake,,,3.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,92.0,3.7,2.0
 N01-T2 Ngoại Giao Đoàn,Bắc,,3.0,,Đường Võ Chí Công,Phường Xuân Tảo,Quận Bắc Từ Liêm,128.0,8.55,2.0
 Chelsea Residences,,,3.0,,Đường Trần Kim Xuyến,Phường Yên Hòa,Quận Cầu Giấy,120.0,9.6,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.5,3.0
 ĐTM Dịch Vọng,,,3.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,100.0,6.0,2.0
 Vinhomes Ocean Park Gia Lâm,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,69.0,2.9,2.0
 Gold Tower,,,3.0,,Đường Nguyễn Trãi,Phường Thanh Xuân Trung,Quận Thanh Xuân,125.0,8.08,2.0
@@ -7964,6 +8011,7 @@ Mulberry Lane,,,2.0,,,Phường Mỗ Lao,Quận Hà Đông,89.0,5.2,2.0
 Imperia Garden,,,2.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,75.0,5.5,2.0
 GoldSeason,,,3.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,100.0,5.6,2.0
 Pandora 53 Triều Khúc,,,2.0,,,,Quận Thanh Xuân,83.0,5.2,2.0
+Văn Khê,,,3.0,,,Phường La Khê,Quận Hà Đông,151.0,5.3,2.0
 AQH Riverside,,,3.0,,,Phường Thượng Thanh,Quận Long Biên,73.0,4.15,2.0
 Vườn Đào,,,1.0,,Đường Lạc Long Quân,Phường Phú Thượng,Quận Tây Hồ,60.0,3.5,1.0
 Viha Complex,,,2.0,,,,Quận Thanh Xuân,72.0,7.08,2.0
@@ -7977,6 +8025,7 @@ Khai Sơn City,,,2.0,,,Phường Ngọc Thụy,Quận Long Biên,90.0,5.0,2.0
 Bắc Hà Fodacon,,,3.0,,,,Quận Hà Đông,86.0,4.52,2.0
 Times City - Park Hill,,,3.0,,,,Quận Hai Bà Trưng,110.0,8.0,
 Vinhomes Ocean Park Gia Lâm,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,60.0,2.55,1.0
+The Park Home,,,4.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,154.0,10.0,3.0
 Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,54.0,3.76,2.0
 ĐTM Dịch Vọng,,,,,Đường Thành Thái,,Quận Cầu Giấy,110.0,7.3,
 ,,,,,,Phường Trung Hòa,Quận Cầu Giấy,100.0,6.5,
@@ -8144,6 +8193,7 @@ FLC Green Apartment,,,2.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận
 Vinhomes Gardenia,,,2.0,,Đường Hàm Nghi,Phường Cầu Diễn,Quận Nam Từ Liêm,80.0,5.8,2.0
 Thăng Long Green City,,,2.0,,,Xã Kim Chung,Huyện Đông Anh,58.0,2.1,2.0
 Hapulico Complex,,,3.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,100.0,6.3,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,7.5,3.0
 Vimeco I - Phạm Hùng,,,2.0,,Đường Phạm Hùng,Phường Trung Hòa,Quận Cầu Giấy,90.0,5.8,2.0
 Hemisco Xa La,,,2.0,,,,Quận Hà Đông,85.0,3.75,2.0
 Gelexia Riverside,,,2.0,,Đường Tam Trinh,Phường Yên Sở,Quận Hoàng Mai,67.0,4.5,2.0
@@ -8226,6 +8276,7 @@ Nhà ở xã hội Bộ Tư lệnh Tăng Thiết Giáp,,,,,,Phường Mỹ Đìn
 Le Grand Jardin Sài Đồng,,,2.0,,Đường Huỳnh Văn Nghệ,Phường Sài Đồng,Quận Long Biên,76.0,4.65,2.0
 D11 Sunrise Building,,,3.0,,Đường Trần Thái Tông,Phường Dịch Vọng Hậu,Quận Cầu Giấy,100.0,6.6,2.0
 Riverside Garden,,,3.0,,,Phường Khương Đình,Quận Thanh Xuân,85.0,6.1,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,8.0,3.0
 Vinhomes West Point,,,3.0,,Đường Phạm Hùng,Phường Mễ Trì,Quận Nam Từ Liêm,84.0,6.6,2.0
 Hà Thành Plaza,,,3.0,,,,Quận Đống Đa,115.0,7.5,2.0
 ,,,3.0,,Đường Khuất Duy Tiến,Phường Nhân Chính,Quận Thanh Xuân,130.0,3.98,2.0
@@ -8378,6 +8429,7 @@ Văn Khê,Đông Nam,,3.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đ�
 KĐT Trung Yên,,,3.0,,,,Quận Cầu Giấy,86.0,4.86,2.0
 ,,,3.0,,,,Quận Cầu Giấy,107.0,7.35,2.0
 ,,,3.0,,,,Quận Cầu Giấy,105.0,7.2,2.0
+Discovery Complex,,,3.0,,,,Quận Cầu Giấy,155.0,10.0,2.0
 ,,,3.0,,,,Quận Cầu Giấy,102.0,7.15,2.0
 ,,,3.0,,,,Quận Cầu Giấy,108.0,7.3,2.0
 HH1 Linh Đàm,,,2.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,56.0,2.5,2.0
@@ -8512,6 +8564,7 @@ VP6 Linh Đàm,,,2.0,,Đường Hoàng Liệt,Phường Thịnh Liệt,Quận Ho
 Vinhomes Smart City,,,2.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,43.0,2.9,1.0
 Iris Garden,Nam,,3.0,,Đường Trần Hữu Dực,Phường Cầu Diễn,Quận Nam Từ Liêm,135.0,8.0,2.0
 KĐT Xa La,,,2.0,,,,Quận Hà Đông,70.0,3.29,2.0
+M3 - M4 Nguyễn Chí Thanh,,,3.0,,Đường Nguyễn Chí Thanh,Phường Láng Hạ,Quận Đống Đa,155.0,7.91,2.0
 ,,,2.0,,,Phường Ngã Tư Sở,Quận Đống Đa,65.0,2.4,2.0
 25 Tân Mai,,,2.0,,Đường Núi Trúc,Phường Ngọc Khánh,Quận Ba Đình,50.0,2.57,
 ,,,2.0,,Phố Kim Mã,Phường Kim Mã,Quận Ba Đình,50.0,1.95,
@@ -8651,6 +8704,7 @@ Grand Sunlake,,,2.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đôn
 Eco City Việt Hưng,,,2.0,,,Phường Giang Biên,Quận Long Biên,73.0,3.66,2.0
 Chung cư Đại Thanh,,,2.0,,Đường Phan Trọng Tuệ,Xã Tả Thanh Oai,Huyện Thanh Trì,60.0,2.65,2.0
 173 Xuân Thủy,,,3.0,,,,Quận Cầu Giấy,100.0,6.45,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,7.9,3.0
 Thăng Long Number One,,,3.0,,,Phường Trung Hòa,Quận Cầu Giấy,120.0,6.0,2.0
 ĐTM Dịch Vọng,,,3.0,,,Phường Dịch Vọng,Quận Cầu Giấy,149.0,8.49,2.0
 HH1 Linh Đàm,,,1.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,65.0,2.3,1.0
@@ -8790,6 +8844,7 @@ Golden Field Mỹ Đình,,,2.0,,,,Quận Nam Từ Liêm,65.0,4.3,2.0
 Eco Dream,,,2.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,130.0,7.0,2.0
 Bamboo Airways Tower,,,3.0,,,,Quận Cầu Giấy,135.0,9.0,2.0
 Hoàng Thành Pearl,,,3.0,,Đường Nguyễn Văn Giáp,Phường Cầu Diễn,Quận Nam Từ Liêm,108.0,6.0,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,7.5,2.0
 Bamboo Airways Tower,,,3.0,,,,Quận Cầu Giấy,120.0,8.6,2.0
 Green Park Trần Thủ Độ,,,2.0,,,,Quận Hoàng Mai,83.0,5.0,2.0
 Ecolife Tây Hồ,,,2.0,,,Phường Xuân La,Quận Tây Hồ,88.0,6.75,2.0
@@ -8819,6 +8874,7 @@ Florence Mỹ Đình,,,3.0,,,,Quận Nam Từ Liêm,81.0,5.6,2.0
 Roman Plaza,,,4.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,137.0,8.2,3.0
 Ecolife Capitol,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,112.0,7.2,2.0
 MD Complex Mỹ Đình,,,3.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,129.0,6.8,2.0
+FLC Landmark Tower,,,4.0,,,,Quận Nam Từ Liêm,154.0,6.6,3.0
 The Canopy Residences - Vinhomes Smart City,,,2.0,,,,Quận Nam Từ Liêm,65.0,4.4,2.0
 Goldmark City,Tây,,2.0,,,,Quận Bắc Từ Liêm,83.0,4.8,2.0
 Hồ Gươm Plaza,Tây,,2.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,62.0,3.1,2.0
@@ -9046,6 +9102,7 @@ Star Tower 283 Khương Trung,,,2.0,,Đường Khương Trung,Phường Khương
 CT4 Vimeco II,,,3.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,96.0,6.8,2.0
 Việt Đức Complex,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,94.0,4.0,2.0
 PCC1 Triều Khúc,,,2.0,,,,Quận Thanh Xuân,60.0,4.25,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,8.4,3.0
 Times City - Park Hill,Bắc,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,95.0,8.5,2.0
 ,,,,,,Phường Phương Liên,Quận Đống Đa,55.0,3.18,
 Pandora 53 Triều Khúc,,,2.0,,,,Quận Thanh Xuân,82.0,5.3,2.0
@@ -9113,6 +9170,7 @@ Hateco Hoàng Mai,,,,,Đường Đỗ Mười,Phường Yên Sở,Quận Hoàng 
 Cầu Giấy Center Point,,,2.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,77.0,5.9,2.0
 Mipec Rubik 360,Đông,,3.0,,Đường Xuân Thủy,Phường Dịch Vọng Hậu,Quận Cầu Giấy,95.0,8.6,2.0
 Grand Sunlake,,,2.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,91.0,5.5,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.5,3.0
 Mipec Rubik 360,Đông,,2.0,,Đường Xuân Thủy,Phường Dịch Vọng Hậu,Quận Cầu Giấy,77.0,7.0,2.0
 VP3 Linh Đàm,,,3.0,,,,Quận Hoàng Mai,80.0,4.35,2.0
 Vimeco II - Nguyễn Chánh,,,3.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,140.0,8.1,2.0
@@ -9233,6 +9291,7 @@ Gemek Tower,,,2.0,,,,Huyện Hoài Đức,65.0,3.1,2.0
 Viha Complex,,,3.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,97.0,8.27,2.0
 Imperia Garden,,,3.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,118.0,9.5,2.0
 Viha Complex,,,3.0,,,,Quận Thanh Xuân,97.0,7.99,3.0
+Cienco1 Hoàng Đạo Thúy,,,,,,,Quận Thanh Xuân,152.0,9.0,
 Thanh Hà Mường Thanh,,,2.0,,,Phường Kiến Hưng,Quận Hà Đông,72.0,2.69,2.0
 GoldSeason,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,60.0,4.65,1.0
 Five Star Kim Giang,Tây,,2.0,,Đường Kim Giang,Phường Kim Giang,Quận Thanh Xuân,76.0,4.5,2.0
@@ -9255,6 +9314,7 @@ Masteri West Heights,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,59.0,3.58
 Xuân Phương Residence,,,3.0,,,,Quận Nam Từ Liêm,92.0,5.45,2.0
 KĐT Mễ Trì Hạ,,,2.0,,Đường Phạm Hùng,Phường Mễ Trì,Quận Nam Từ Liêm,74.0,3.7,2.0
 Hoàng Thành Pearl,,,3.0,,Đường Nguyễn Văn Giáp,Phường Cầu Diễn,Quận Nam Từ Liêm,114.0,7.7,2.0
+FLC Landmark Tower,Bắc,,3.0,,,,Quận Nam Từ Liêm,153.0,6.89,2.0
 Masteri West Heights,,,1.0,,,,Quận Nam Từ Liêm,28.0,2.4,1.0
 The Sapphire-Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,54.0,3.0,1.0
 Vinhomes Smart City,,,3.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,82.0,4.84,2.0
@@ -9621,6 +9681,7 @@ Green Stars,,,3.0,,,,Quận Bắc Từ Liêm,102.0,6.7,2.0
 Keangnam,,,3.0,,Đường Phạm Hùng,Phường Mễ Trì,Quận Nam Từ Liêm,107.0,6.5,2.0
 Seasons Avenue,,,2.0,,,,Quận Hà Đông,76.0,4.7,2.0
 Anland LakeView,,,2.0,,,,Quận Hà Đông,76.0,4.8,2.0
+Mulberry Lane,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.0,2.0
 Samsora Premier,,,2.0,,Đường Chu Văn An,Phường Yết Kiêu,Quận Hà Đông,70.0,4.2,2.0
 Samsora Premier,,,2.0,,Đường Chu Văn An,Phường Yết Kiêu,Quận Hà Đông,70.0,4.5,2.0
 Mỹ Đình II,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,115.0,5.7,2.0
@@ -9697,6 +9758,7 @@ Nam Đô Complex,Đông,,3.0,,,Phường Giáp Bát,Quận Hoàng Mai,100.0,5.1,
 ,,,2.0,,Đường Võ Chí Công,Phường Phú Thượng,Quận Tây Hồ,76.0,8.9,2.0
 Hoàng Thành Pearl,,,3.0,,Đường Nguyễn Văn Giáp,Phường Cầu Diễn,Quận Nam Từ Liêm,114.0,7.4,2.0
 MD Complex Mỹ Đình,,,2.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,95.0,5.2,2.0
+B4 và B14 Kim Liên,,,4.0,,Đường Phạm Ngọc Thạch,Phường Kim Liên,Quận Đống Đa,153.0,9.0,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,31.0,1.6,1.0
 The Pavilion - Vinhomes Ocean Park,,,2.0,,Đường Lý Thánh Tông,Xã Dương Xá,Huyện Gia Lâm,79.0,3.85,2.0
 Chung cư 345 Đội Cấn,,,2.0,,Đường Đội Cấn,Phường Đội Cấn,Quận Ba Đình,75.0,5.0,2.0
@@ -9763,6 +9825,7 @@ KĐT Trung Yên,,,3.0,,,,Quận Cầu Giấy,78.0,4.56,2.0
 KĐT Trung Yên,,,3.0,,,,Quận Cầu Giấy,82.0,4.68,2.0
 Vinhomes D'Capitale,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,82.0,5.5,2.0
 KĐT Trung Yên,,,3.0,,,,Quận Cầu Giấy,85.0,4.95,2.0
+Cienco1 Hoàng Đạo Thúy,,,3.0,,,,Quận Thanh Xuân,155.0,8.7,3.0
 Golden Land,,,3.0,,Đường Nguyễn Trãi,Phường Thanh Xuân Trung,Quận Thanh Xuân,130.0,9.5,2.0
 ,,,2.0,,Đường Nguyễn Trãi,Phường Thanh Xuân Nam,Quận Thanh Xuân,60.0,2.65,1.0
 Chung cư Ban cơ yếu Chính phủ,,,3.0,,,Phường Nhân Chính,Quận Thanh Xuân,125.0,9.7,2.0
@@ -10033,6 +10096,7 @@ Riverside Garden,,,3.0,,,,Quận Thanh Xuân,85.0,6.25,2.0
 Vinaconex 1,,,3.0,,,,Quận Cầu Giấy,98.0,5.88,2.0
 Trung Hòa Nhân Chính,,,2.0,,,,Quận Cầu Giấy,70.0,4.0,2.0
 ,,,3.0,,Phố Mai Dịch,Phường Mai Dịch,Quận Cầu Giấy,86.0,3.5,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,6.86,3.0
 ,,,2.0,,,,Quận Cầu Giấy,86.0,5.07,2.0
 ĐTM Dịch Vọng,,,2.0,,,,Quận Cầu Giấy,86.0,5.7,2.0
 Cầu Giấy Center Point,,,3.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,127.0,8.9,2.0
@@ -10092,6 +10156,7 @@ An Bình City,,,3.0,,,,Quận Bắc Từ Liêm,112.0,7.8,2.0
 ,,,2.0,,Đường Thành Thái,Phường Dịch Vọng Hậu,Quận Cầu Giấy,92.0,5.52,2.0
 Indochina Plaza,,,3.0,,,,Quận Cầu Giấy,113.0,10.0,2.0
 Hà Nội Melody Residences,,,2.0,,Đường Bằng Liệt,Phường Hoàng Liệt,Quận Hoàng Mai,68.0,3.26,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,7.9,2.0
 Seasons Avenue,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,111.0,7.0,2.0
 Green Stars,,,3.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,102.0,6.2,2.0
 Masteri Water Front,,,3.0,,Đường Quốc Lộ 5B,Xã Đa Tốn,Huyện Gia Lâm,80.0,5.7,2.0
@@ -10335,6 +10400,7 @@ Hei Tower Điện Lực,,,3.0,,Phố Ngụy Như Kon Tum,Phường Nhân Chính,
 Sunrise Building 3,,,2.0,,,,Quận Long Biên,116.0,4.8,2.0
 The Golden Palm Lê Văn Lương,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,124.0,9.5,
 Việt Hưng,,,2.0,,,Phường Giang Biên,Quận Long Biên,72.0,2.9,1.0
+Stellar Garden,,,3.0,,,,Quận Thanh Xuân,151.0,8.79,3.0
 Khai Sơn City,,,3.0,,,,Quận Long Biên,119.0,6.7,3.0
 Sunrise Building 3,,,2.0,,,,Quận Long Biên,75.0,3.5,1.0
 Eurowindow River Park,,,3.0,,Đường Trường Sa,Xã Đông Hội,Huyện Đông Anh,85.0,4.15,2.0
@@ -10346,6 +10412,7 @@ Goldmark City,,,2.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận B�
 The Pride,,,2.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,75.0,3.9,2.0
 Roman Plaza,,,3.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,99.0,6.07,2.0
 Dreamland Bonanza,,,3.0,,,,Quận Nam Từ Liêm,92.0,8.0,2.0
+Dolphin Plaza,,,3.0,,,,Quận Nam Từ Liêm,156.0,7.96,2.0
 Thanh Hà Mường Thanh,Bắc,,2.0,,,Phường Kiến Hưng,Quận Hà Đông,78.0,2.79,2.0
 Tân Tây Đô,,,,,,,Huyện Đan Phượng,78.0,3.1,
 KĐT Văn Quán,,,2.0,,,Phường Phúc La,Quận Hà Đông,80.0,4.0,2.0
@@ -10420,6 +10487,7 @@ Times City - Park Hill,Bắc,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Qu�
 Golden West,,,3.0,,Phố Lê Văn Thiêm,Phường Nhân Chính,Quận Thanh Xuân,93.0,5.1,2.0
 Sakura Tower,,,3.0,,Đường Vũ Trọng Phụng,Phường Thanh Xuân Trung,Quận Thanh Xuân,95.0,5.9,2.0
 Harmony Square,,,2.0,,Đường Nguyễn Tuân,Phường Nhân Chính,Quận Thanh Xuân,75.0,3.9,
+Resco Cổ Nhuế,,,3.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 2,Quận Bắc Từ Liêm,156.0,6.26,2.0
 Hòa Bình Green Apartment,,,2.0,,Đường Bưởi,Phường Vĩnh Phúc,Quận Ba Đình,72.0,5.2,2.0
 Thành Công Tower 57 Láng Hạ,,,3.0,,Phố Láng Hạ,Phường Thành Công,Quận Ba Đình,130.0,8.6,2.0
 Goldmark City,,,3.0,,,,Quận Bắc Từ Liêm,94.0,4.4,2.0
@@ -10442,6 +10510,7 @@ KĐTM Cầu Bươu,,,2.0,,,,Huyện Thanh Trì,69.0,2.4,2.0
 The Garden Hills - 99 Trần Bình,,,2.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,66.0,3.54,2.0
 HH2 Bắc Hà,,,3.0,,,Phường Trung Văn,Quận Nam Từ Liêm,133.0,4.99,2.0
 Florence Mỹ Đình,,,3.0,,Đường Trần Hữu Dực,Phường Cầu Diễn,Quận Nam Từ Liêm,80.0,5.7,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.8,2.0
 Chung cư Đại Thanh,,,2.0,,,,Huyện Thanh Trì,56.0,2.45,2.0
 Eco Green City,,,3.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,95.0,4.86,2.0
 ,,,3.0,,Phố Chùa Bộc,Phường Quang Trung,Quận Đống Đa,100.0,3.98,2.0
@@ -10567,6 +10636,7 @@ Nhà ở xã hội Bộ Tư lệnh Tăng Thiết Giáp,,,2.0,,Đường Đình T
 Mỹ Đình I,,,3.0,,,,Quận Nam Từ Liêm,76.0,4.6,2.0
 VP5 Linh Đàm,Đông,,2.0,,Đường Nguyễn Duy Trinh,Phường Hoàng Liệt,Quận Hoàng Mai,58.0,2.5,2.0
 ,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,115.0,8.5,2.0
+,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,8.36,2.0
 54 Hạ Đình,,,3.0,,Phố Hạ Đình,Phường Thanh Xuân Trung,Quận Thanh Xuân,91.0,4.07,2.0
 Mỹ Đình Plaza 2,,,3.0,,Đường Nguyễn Hoàng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,104.0,5.5,2.0
 The Terra An Hưng,,,3.0,,,Phường Dương Nội,Quận Hà Đông,90.0,5.5,2.0
@@ -10577,6 +10647,7 @@ Khu Ngoại Giao Đoàn,,,3.0,,Đường Xuân Đỉnh,Phường Xuân Đỉnh,Q
 The Nine,Nam,,2.0,,Đường Phạm Văn Đồng,Phường Mai Dịch,Quận Cầu Giấy,103.0,8.8,2.0
 Việt Hưng,,,2.0,,,Phường Đức Giang,Quận Long Biên,62.0,2.99,1.0
 Trung Yên Plaza,,,3.0,,Đường Trung Yên 11,Phường Trung Hòa,Quận Cầu Giấy,112.0,8.0,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,152.0,7.09,2.0
 Cầu Giấy Center Point,,,3.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,127.0,8.8,2.0
 Việt Hưng,,,3.0,,,Phường Đức Giang,Quận Long Biên,103.0,3.99,2.0
 Xuân Mai Complex,,,2.0,,,,Quận Hà Đông,67.0,3.4,2.0
@@ -10656,6 +10727,7 @@ T&T Riverview,,,2.0,,Đường Vĩnh Hưng,Phường Vĩnh Hưng,Quận Hoàng M
 Vinhomes Ocean Park Gia Lâm,,,3.0,,,Xã Dương Xá,Huyện Gia Lâm,74.0,3.75,2.0
 Golden Palace,,,4.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,142.0,7.95,3.0
 Vinhomes Smart City,,,2.0,,,,Quận Nam Từ Liêm,55.0,3.5,1.0
+,,,3.0,,,Phường Trung Hòa,Quận Cầu Giấy,151.0,9.0,3.0
 Phenikaa Hòa Lạc,,,2.0,,,Xã Thạch Hòa,Huyện Thạch Thất,57.0,1.49,1.0
 Mulberry Lane,,,1.0,,,Phường Mỗ Lao,Quận Hà Đông,46.0,3.0,1.0
 Vinaconex 21,,,2.0,,,,Quận Hà Đông,97.0,3.5,2.0
@@ -10707,6 +10779,7 @@ Vinhomes Ocean Park Gia Lâm,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,45.0,3.11,
 The Zenpark,,,2.0,,Đường Đông Dư,Xã Dương Xá,Huyện Gia Lâm,70.0,3.98,2.0
 Hei Tower Điện Lực,,,3.0,,,,Quận Thanh Xuân,96.0,6.0,2.0
 Stellar Garden,,,3.0,,Phố Lê Văn Thiêm,Phường Thanh Xuân Trung,Quận Thanh Xuân,95.0,5.7,2.0
+Stellar Garden,,,4.0,,Phố Lê Văn Thiêm,Phường Thanh Xuân Trung,Quận Thanh Xuân,151.0,8.8,3.0
 Times Tower - HACC1 Complex Building,,,3.0,,,,Quận Thanh Xuân,134.0,9.0,2.0
 Mỹ Đình Plaza 2,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,100.0,6.3,2.0
 ,,,3.0,,Đường Văn Cao,Phường Liễu Giai,Quận Ba Đình,90.0,5.6,1.0
@@ -10967,6 +11040,7 @@ Hà Nội Center Point,,,2.0,,Phố Hoàng Đạo Thúy,Phường Nhân Chính,Q
 Handi Resco Lê văn Lương,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,100.0,7.3,2.0
 Chung cư Ban cơ yếu Chính phủ,,,2.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,68.0,5.1,2.0
 Imperia Sky Garden,,,2.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,83.0,5.5,2.0
+Cienco1 Hoàng Đạo Thúy,,,4.0,,,,Quận Thanh Xuân,156.0,7.9,3.0
 Lancaster Luminaire,,,2.0,,Đường Láng,Phường Láng Thượng,Quận Đống Đa,50.0,3.9,
 Intracom1,,,2.0,,,Phường Trung Văn,Quận Nam Từ Liêm,75.0,4.0,2.0
 Vinhomes Smart City,,,3.0,,,,Quận Nam Từ Liêm,75.0,4.8,2.0
@@ -11022,6 +11096,7 @@ An Bình Plaza,,,2.0,,,,Quận Nam Từ Liêm,55.0,4.29,1.0
 Chung cư The Wisteria,,,2.0,,,,Huyện Hoài Đức,100.0,5.5,2.0
 Golden Field Mỹ Đình,,,3.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,120.0,5.6,2.0
 Golden Field Mỹ Đình,,,4.0,,,Phường Cầu Diễn,Quận Nam Từ Liêm,120.0,6.9,3.0
+Dolphin Plaza,Bắc,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.49,3.0
 Mailand Hanoi City,Nam,,2.0,,,,Huyện Hoài Đức,109.0,5.7,2.0
 Florence Mỹ Đình,,,3.0,,Đường Trần Hữu Dực,Phường Cầu Diễn,Quận Nam Từ Liêm,85.0,5.5,2.0
 The Sun Mễ Trì,,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,81.0,4.8,2.0
@@ -11129,6 +11204,7 @@ Thăng Long Number One,,,3.0,,,Phường Trung Hòa,Quận Cầu Giấy,116.0,7.
 The Park Home,,,2.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,81.0,6.2,2.0
 The Park Home,,,2.0,,,,Quận Cầu Giấy,80.0,6.65,2.0
 Bamboo Airways Tower,,,3.0,,,,Quận Cầu Giấy,126.0,8.5,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,8.66,2.0
 Golden Park Tower,,,3.0,,,,Quận Cầu Giấy,98.0,7.95,2.0
 Vinhomes D'Capitale,,,3.0,,,,Quận Cầu Giấy,85.0,7.8,2.0
 Khai Sơn City,,,2.0,,,Phường Ngọc Thụy,Quận Long Biên,77.0,5.12,2.0
@@ -11175,6 +11251,7 @@ Lancaster Hà Nội,,,1.0,,Đường Núi Trúc,Phường Giảng Võ,Quận Ba
 Lancaster Hà Nội,,,1.0,,Đường Núi Trúc,Phường Giảng Võ,Quận Ba Đình,50.0,4.6,1.0
 The Terra An Hưng,,,,,,,Quận Hà Đông,90.0,6.0,
 KĐT Văn Quán,,,2.0,,,Phường Phúc La,Quận Hà Đông,80.0,4.25,
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,152.0,7.9,3.0
 Home City - Trung Kính Complex,,,3.0,,Phố Trung Kính,Phường Yên Hòa,Quận Cầu Giấy,105.0,6.5,2.0
 Sky Park Residence,,,2.0,,Đường Tôn Thất Thuyết,Phường Dịch Vọng Hậu,Quận Cầu Giấy,71.0,6.6,2.0
 Vinhomes D'Capitale,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,72.0,4.5,2.0
@@ -11273,6 +11350,7 @@ The Beverly - Vinhomes Ocean Park,,,3.0,,,Xã Đa Tốn,Huyện Gia Lâm,81.0,4.
 Vinhomes Cổ Loa,,,1.0,,,,Huyện Đông Anh,31.0,3.2,1.0
 Gemek Tower,,,2.0,,Đường Lê Trọng Tấn,Xã An Khánh,Huyện Hoài Đức,60.0,2.7,2.0
 A10-A14 Nam Trung Yên,,,3.0,,,Phường Yên Hòa,Quận Cầu Giấy,90.0,6.5,2.0
+Mulberry Lane,,,3.0,,Đường Nguyễn Văn Lộc,Phường Mỗ Lao,Quận Hà Đông,154.0,7.8,2.0
 Watermark Tây Hồ,,,2.0,,,,Quận Cầu Giấy,83.0,8.0,2.0
 Vinhomes Ocean Park Gia Lâm,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,55.0,2.79,1.0
 Trung Hòa Nhân Chính,,,2.0,,,,Quận Cầu Giấy,67.0,4.65,2.0
@@ -11372,11 +11450,13 @@ Eco City Việt Hưng,,,2.0,,Đường Lưu Khánh Đàm,Phường Giang Biên,Q
 ĐTM Dịch Vọng,,,3.0,,,,Quận Cầu Giấy,108.0,7.9,2.0
 Eco City Việt Hưng,,,2.0,,,Phường Giang Biên,Quận Long Biên,78.0,4.1,2.0
 Tây Hà Tower,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,118.0,5.5,2.0
+CT6 Constrexim Yên Hòa,,,4.0,,Đường Dương Đình Nghệ,Phường Yên Hòa,Quận Cầu Giấy,156.0,7.9,3.0
 Vinhomes Nguyễn Chí Thanh,,,2.0,,,Phường Láng Thượng,Quận Đống Đa,86.0,6.6,2.0
 Thành Phố Giao Lưu,,,3.0,,,,Quận Bắc Từ Liêm,86.0,4.6,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,Đường Lý Thánh Tông,Xã Dương Xá,Huyện Gia Lâm,28.0,1.85,1.0
 Dreamland Bonanza,,,2.0,,Đường Duy Tân,Phường Mỹ Đình 2,Quận Nam Từ Liêm,73.0,5.7,2.0
 Ecolife Capitol,,,2.0,,,,Quận Nam Từ Liêm,75.0,4.6,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,7.6,3.0
 A10-A14 Nam Trung Yên,,,3.0,,,Phường Yên Hòa,Quận Cầu Giấy,102.0,7.3,2.0
 Golden Land,,,3.0,,Đường Nguyễn Trãi,Phường Thanh Xuân Trung,Quận Thanh Xuân,147.0,8.6,2.0
 ,,,2.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,76.0,3.9,2.0
@@ -11498,6 +11578,7 @@ NOXH Đồng Mô,Tây,,2.0,,Đường Trần Hòa,Phường Đại Kim,Quận Ho
 Cầu Giấy Center Point,,,3.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,127.0,8.9,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,,Huyện Gia Lâm,47.0,2.2,1.0
 ,,,1.0,,Phố Hoàng Tích Trí,Phường Kim Liên,Quận Đống Đa,60.0,2.8,1.0
+Vimeco II - Nguyễn Chánh,,,3.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,151.0,7.5,2.0
 Times City,Nam,,2.0,,,,Quận Hai Bà Trưng,87.0,7.8,2.0
 Vimeco II - Nguyễn Chánh,,,2.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,88.0,4.7,2.0
 TSG Lotus Sài Đồng,,,3.0,,,,Quận Long Biên,83.0,4.3,2.0
@@ -11553,6 +11634,7 @@ N04A Ngoại Giao Đoàn,,,2.0,,,,Quận Bắc Từ Liêm,79.0,6.4,2.0
 Đại Thanh,,,2.0,,,,Huyện Thanh Trì,60.0,2.49,2.0
 ,,,2.0,,Phố Trần Đại Nghĩa,Phường Bách Khoa,Quận Hai Bà Trưng,75.0,3.45,2.0
 IA20 Ciputra,,,,,Đường Phạm Văn Đồng,Phường Đông Ngạc,Quận Bắc Từ Liêm,108.0,6.0,
+Mulberry Lane,,,4.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.8,3.0
 Mỹ Đình Plaza 2,,,,,,,Quận Nam Từ Liêm,66.0,4.4,
 Cầu Giấy Center Point,,,2.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,70.0,5.0,2.0
 Xuân Mai Riverside,,,1.0,,Đường Thanh Bình,Phường Mỗ Lao,Quận Hà Đông,76.0,4.2,1.0
@@ -11578,6 +11660,7 @@ Vinhomes Gardenia,,,3.0,,,,Quận Nam Từ Liêm,106.0,8.6,2.0
 Mỹ Đình Plaza 2,,,2.0,,,,Quận Nam Từ Liêm,68.0,4.42,2.0
 Vinhomes West Point,,,2.0,,,,Quận Nam Từ Liêm,70.0,6.3,2.0
 The Miami,,,3.0,,,,Quận Nam Từ Liêm,80.0,5.4,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.5,2.0
 Geleximco Southern Star,Bắc,,2.0,,Đường Giải Phóng,Phường Giáp Bát,Quận Hoàng Mai,62.0,2.8,2.0
 Royal City,,,2.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,134.0,9.0,2.0
 Golden Palace,,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,105.0,6.2,2.0
@@ -11652,6 +11735,7 @@ Golden Palace,,,3.0,,,,Quận Nam Từ Liêm,105.0,6.4,2.0
 Mỹ Đình Plaza 2,,,3.0,,Đường Nguyễn Hoàng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,101.0,6.95,
 Vinhomes Ocean Park Gia Lâm,,,2.0,,,Xã Đa Tốn,Huyện Gia Lâm,69.0,2.95,2.0
 Tây Nam Đại học Thương Mại,,,2.0,,Đường Lê Đức Thọ,Phường Mai Dịch,Quận Cầu Giấy,69.0,4.6,1.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.31,2.0
 The Nine,,,2.0,,,,Quận Cầu Giấy,87.0,7.75,2.0
 Sun Square,,,2.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,90.0,4.2,2.0
 Vinhomes Cổ Loa,,,2.0,,Đường Cổ Loa,Xã Đông Hội,Huyện Đông Anh,62.0,6.1,2.0
@@ -11836,6 +11920,7 @@ Việt Hưng,,,3.0,,,,Quận Long Biên,76.0,3.5,2.0
 Tân Tây Đô,,,2.0,,Đường Quốc lộ 32,Xã Tân Lập,Huyện Đan Phượng,67.0,2.8,2.0
 ,,,2.0,,Đường Vũ Phạm Hàm,Phường Yên Hòa,Quận Cầu Giấy,62.0,4.0,1.0
 Thăng Long Capital,,,2.0,,,Xã An Khánh,Huyện Hoài Đức,69.0,3.0,2.0
+Trung Hòa Nhân Chính,Nam,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,9.3,2.0
 KĐT Trung Yên,,,2.0,,Đường Vũ Phạm Hàm,Phường Yên Hòa,Quận Cầu Giấy,62.0,3.99,1.0
 KĐT mới Cầu Giấy,,,2.0,,Đường Dịch Vọng,Phường Yên Hòa,Quận Cầu Giấy,90.0,5.5,2.0
 Trung Hòa Nhân Chính,,,2.0,,Đường Nguyễn Thị Định,Phường Trung Hòa,Quận Cầu Giấy,70.0,4.65,2.0
@@ -11869,6 +11954,7 @@ Tây Nam Hồ Linh Đàm,Tây,,1.0,,,,Quận Hoàng Mai,40.0,2.3,1.0
 Athena Complex,Nam,,2.0,,Đường 70,Phường Phương Canh,Quận Nam Từ Liêm,69.0,2.95,2.0
 CT5-CT6 Lê Đức Thọ,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,92.0,4.95,2.0
 HH1 Linh Đàm,,,3.0,,,,Quận Hoàng Mai,56.0,2.38,2.0
+FLC Landmark Tower,,,4.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,5.9,3.0
 Sun Square,Bắc,,3.0,,,,Quận Nam Từ Liêm,115.0,6.9,2.0
 Tây Hà Tower,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,127.0,5.88,2.0
 Mỹ Đình Plaza 2,,,2.0,,,,Quận Nam Từ Liêm,69.0,4.5,2.0
@@ -11907,6 +11993,7 @@ Hoàng Thành Pearl,,,3.0,,Đường Nguyễn Văn Giáp,Phường Cầu Diễn,
 Capital Elite,Đông,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,114.0,9.07,2.0
 Golden Palace,Tây,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,105.0,5.78,2.0
 HH1 Linh Đàm,Bắc,,2.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,67.0,2.5,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.5,2.0
 ,,,2.0,,Đường Hồ Văn Chương,Phường Văn Chương,Quận Đống Đa,55.0,2.35,1.0
 The Victoria - Vinhomes Smart City,,,1.0,,,,Quận Nam Từ Liêm,30.0,2.3,1.0
 Khai Sơn City,,,,,,,Quận Long Biên,89.0,5.5,
@@ -12448,6 +12535,7 @@ VP5 Linh Đàm,Tây,,,,,,Quận Hoàng Mai,72.0,4.02,
 ,,,3.0,,Đường Nam Thành Công,Phường Láng Hạ,Quận Đống Đa,30.0,2.85,2.0
 Xuân Mai Riverside,,,1.0,,Đường Thanh Bình,Phường Mỗ Lao,Quận Hà Đông,45.0,2.7,1.0
 Văn Phú Victoria,,,2.0,,,,Quận Hà Đông,97.0,5.2,2.0
+Văn Khê,,,3.0,,,Phường La Khê,Quận Hà Đông,151.0,5.19,2.0
 KĐTM Dương Nội,,,3.0,,Đường Tố Hữu,Phường Dương Nội,Quận Hà Đông,117.0,4.3,2.0
 Tòa nhà 197 Trần Phú,,,3.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,132.0,4.9,2.0
 Golden Field Mỹ Đình,,,,,,,Quận Nam Từ Liêm,120.0,6.5,
@@ -12603,6 +12691,7 @@ CT3 Cổ Nhuế,,,2.0,,,,Quận Bắc Từ Liêm,71.0,4.65,2.0
 Vinhomes Ocean Park Gia Lâm,,,2.0,,,Xã Dương Xá,Huyện Gia Lâm,55.0,2.6,1.0
 Roman Plaza,,,2.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,70.0,4.95,2.0
 M3 - M4 Nguyễn Chí Thanh,,,3.0,,,,Quận Đống Đa,130.0,8.5,2.0
+Mulberry Lane,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.5,3.0
 Chung cư The Senique Hanoi,,,1.0,,,,Huyện Gia Lâm,42.0,3.2,1.0
 Chung cư Đại Thanh,,,3.0,,,,Huyện Thanh Trì,77.0,3.15,2.0
 Khai Sơn City,,,3.0,,,,Quận Long Biên,96.0,6.15,3.0
@@ -12695,11 +12784,13 @@ Mỹ Đình Pearl,,,1.0,,,Phường Phú Đô,Quận Nam Từ Liêm,50.0,3.95,1.
 D11 Sunrise Building,,,3.0,,Đường Trần Thái Tông,Phường Dịch Vọng Hậu,Quận Cầu Giấy,100.0,6.5,2.0
 M3 - M4 Nguyễn Chí Thanh,,,3.0,,,,Quận Đống Đa,130.0,8.0,2.0
 Hà Nội Melody Residences,,,2.0,,Đường Bằng Liệt,Phường Hoàng Liệt,Quận Hoàng Mai,74.0,4.07,2.0
+Mulberry Lane,,,3.0,,,,Quận Hà Đông,154.0,8.5,2.0
 Thăng Long Number One,,,,,,,Quận Cầu Giấy,117.0,7.6,
 Capital Elite,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,105.0,8.5,
 ,,,3.0,,Đường Cầu Giấy,Phường Dịch Vọng,Quận Cầu Giấy,125.0,6.25,2.0
 90 Nguyễn Tuân,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,70.0,5.1,2.0
 VC7 Housing Complex - 136 Hồ Tùng Mậu,,,4.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,150.0,7.7,2.0
+Mulberry Lane,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.7,3.0
 Văn Phú Victoria,,,3.0,,Đường Lê Trọng Tấn,Phường Phú La,Quận Hà Đông,118.0,5.5,2.0
 Imperia Smart City,,,2.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,55.0,3.3,1.0
 Star Tower,,,2.0,,Đường Dương Đình Nghệ,Phường Yên Hòa,Quận Cầu Giấy,99.0,7.0,2.0
@@ -12977,7 +13068,9 @@ Viha Complex,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận 
 Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,110.0,5.65,2.0
 ,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,72.0,5.1,2.0
 Goldmark City,,,3.0,,,,Quận Bắc Từ Liêm,110.0,6.8,2.0
+Mulberry Lane,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.8,2.0
 Eco Green City,,,2.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,75.0,4.4,1.0
+Chung cư The Legacy,,,4.0,,,,Quận Thanh Xuân,155.0,8.5,3.0
 Lumi Hanoi,Tây,,2.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,54.0,3.9,2.0
 Sunshine Garden,Đông,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,100.0,6.49,2.0
 M3 - M4 Nguyễn Chí Thanh,,,3.0,,,,Quận Đống Đa,130.0,7.9,2.0
@@ -13531,6 +13624,7 @@ Home City - Trung Kính Complex,,,2.0,,Phố Trung Kính,Phường Yên Hòa,Qu�
 Hà Nội Paragon,Đông,,2.0,,,Phường Dịch Vọng Hậu,Quận Cầu Giấy,89.0,5.6,2.0
 Summit Building,,,3.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,101.0,6.46,2.0
 Mỹ Đình Plaza 2,,,2.0,,,,Quận Nam Từ Liêm,68.0,4.09,2.0
+N04 Trần Duy Hưng,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,156.0,9.0,3.0
 Mỹ Đình Plaza 2,,,2.0,,,,Quận Nam Từ Liêm,68.0,4.2,2.0
 The Golden Palm Lê Văn Lương,,,2.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,81.0,6.15,2.0
 Royal City,,,2.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,70.0,5.6,2.0
@@ -13572,6 +13666,7 @@ Discovery Central,,,1.0,,Đường Trần Phú,Phường Điện Biên,Quận B
 The One Residence - Gamuda Garden,,,3.0,,Đường Pháp Vân,Phường Yên Sở,Quận Hoàng Mai,65.0,3.75,2.0
 Moonlight 1 - An Lạc Green Symphony,,,2.0,,,Xã Vân Canh,Huyện Hoài Đức,66.0,4.2,
 Mỹ Đình Pearl,,,3.0,,,Phường Phú Đô,Quận Nam Từ Liêm,94.0,8.0,2.0
+FLC Landmark Tower,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,153.0,6.88,2.0
 Imperia Sola Park,,,3.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,75.0,5.03,2.0
 Golden Palace,Bắc,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,118.0,5.5,2.0
 Vinhomes Smart City,,,3.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,64.0,3.95,2.0
@@ -13589,6 +13684,7 @@ Việt Hưng,,,2.0,,Phố Việt Hưng,Phường Giang Biên,Quận Long Biên,7
 HH2 Linh Đàm,,,2.0,,,,Quận Hoàng Mai,66.0,2.58,2.0
 ,,,,,Đường ĐT 427B Thị trấn Thường Tín,,Thị Trấn Thường Tín,87.0,10.0,
 Hei Tower Điện Lực,,,3.0,,Phố Ngụy Như Kon Tum,Phường Nhân Chính,Quận Thanh Xuân,90.0,6.3,2.0
+,,,3.0,,,,Quận Thanh Xuân,153.0,9.0,
 HPC Landmark 105,,,4.0,,,,Quận Hà Đông,143.0,6.98,3.0
 FLC Green Apartment,,,2.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,45.0,2.1,2.0
 Ecolife Capitol,,,1.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,37.0,2.1,1.0
@@ -13615,6 +13711,7 @@ Goldmark City,,,3.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận B�
 Vinhomes Gardenia,,,2.0,,Đường Hàm Nghi,Phường Cầu Diễn,Quận Nam Từ Liêm,73.0,6.3,2.0
 Golden Palace,,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,118.0,8.0,2.0
 An Bình Plaza,,,2.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,56.0,4.3,1.0
+Eco Dream,Nam,,5.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,155.0,9.7,3.0
 Mon City - Hải Đăng City,,,2.0,,,,Quận Nam Từ Liêm,67.0,4.5,2.0
 HH2 Bắc Hà,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,133.0,5.75,2.0
 The Pride,,,3.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,113.0,5.35,3.0
@@ -13762,6 +13859,7 @@ VOV Mễ Trì,,,3.0,,Đường Lương Thế Vinh,Phường Mễ Trì,Quận Nam
 GoldSilk Complex,,,3.0,,Phố Cầu Am,Phường Vạn Phúc,Quận Hà Đông,127.0,6.4,3.0
 GoldSilk Complex,,,2.0,,Phố Cầu Am,Phường Vạn Phúc,Quận Hà Đông,78.0,4.5,2.0
 ,,,2.0,,,Phường Phương Canh,Quận Nam Từ Liêm,58.0,2.95,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.3,2.0
 Khu đô thị Xuân Phương,,,2.0,,Đường 70,Phường Xuân Phương,Quận Nam Từ Liêm,58.0,2.7,1.0
 VOV Mễ Trì,,,3.0,,Đường Lương Thế Vinh,Phường Mễ Trì,Quận Nam Từ Liêm,87.0,4.3,2.0
 The Matrix One,,,2.0,,Đường Lê Quang Đạo,Phường Mễ Trì,Quận Nam Từ Liêm,88.0,8.0,2.0
@@ -13781,6 +13879,7 @@ Golden Palace,Nam,,3.0,,,Phường Mễ Trì,Quận Nam Từ Liêm,105.0,6.2,2.0
 An Lạc Green Symphony,,,,,,,Huyện Hoài Đức,95.0,5.0,
 Thăng Long Capital,Nam,,3.0,,,Xã An Khánh,Huyện Hoài Đức,96.0,4.3,2.0
 Vinhomes Smart City,,,1.0,,,,Quận Nam Từ Liêm,43.0,3.0,1.0
+Eco Dream,,,4.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,155.0,9.9,3.0
 Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,117.0,6.0,2.0
 N04 Trần Duy Hưng,,,2.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,92.0,5.0,2.0
 Trung Hòa Nhân Chính,,,3.0,,Đường Lê Văn Lương,Phường Trung Hòa,Quận Cầu Giấy,78.0,4.35,2.0
@@ -14496,7 +14595,9 @@ Tân Tây Đô,,,2.0,,Đường Quốc lộ 32,Xã Tân Lập,Huyện Đan Phư�
 The Sapphire-Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,59.0,2.89,1.0
 Intracom1,,,3.0,,,,Quận Nam Từ Liêm,117.0,5.2,2.0
 Keangnam,,,3.0,,Đường Phạm Hùng,Phường Mễ Trì,Quận Nam Từ Liêm,107.0,6.2,2.0
+FLC Landmark Tower,,,4.0,,,,Quận Nam Từ Liêm,156.0,7.18,3.0
 The Sapphire-Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,59.0,2.98,1.0
+FLC Landmark Tower,,,4.0,,,,Quận Nam Từ Liêm,156.0,7.18,3.0
 The Sapphire-Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,59.0,2.98,1.0
 The Matrix One,,,2.0,,Đường Lê Quang Đạo,Phường Mễ Trì,Quận Nam Từ Liêm,88.0,6.5,2.0
 Keangnam,,,3.0,,Đường Phạm Hùng,Phường Mễ Trì,Quận Nam Từ Liêm,118.0,6.9,2.0
@@ -14532,6 +14633,7 @@ Dolphin Plaza,Đông,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam
 Roman Plaza,,,2.0,,,,Quận Nam Từ Liêm,70.0,4.8,2.0
 An Bình Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,83.0,5.4,2.0
 The Matrix One,Bắc,,3.0,,Đường Lê Quang Đạo,Phường Mễ Trì,Quận Nam Từ Liêm,112.0,8.9,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,6.8,2.0
 Mỹ Đình Plaza 2,,,3.0,,Đường Nguyễn Hoàng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,104.0,6.2,2.0
 Roman Plaza,,,2.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,78.0,5.0,2.0
 Mễ Trì Thượng,,,1.0,,Đường Đại lộ Thăng Long,Phường Mễ Trì,Quận Nam Từ Liêm,45.0,1.9,1.0
@@ -14571,6 +14673,7 @@ KĐT Định Công,,,2.0,,,,Quận Hoàng Mai,68.0,3.3,2.0
 Hà Nội Paragon,,,3.0,,,,Quận Cầu Giấy,147.0,8.82,2.0
 Cầu Giấy Center Point,,,3.0,,,,Quận Cầu Giấy,128.0,8.9,2.0
 Eurowindow Multi Complex,,,2.0,,,,Quận Cầu Giấy,100.0,7.5,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,8.05,3.0
 Thăng Long Number One,,,2.0,,,Phường Trung Hòa,Quận Cầu Giấy,112.0,5.94,2.0
 Trung Hòa Nhân Chính,,,2.0,,Đường Nguyễn Thị Định,Phường Trung Hòa,Quận Cầu Giấy,87.0,4.7,2.0
 Mulberry Lane,,,3.0,,,,Quận Hà Đông,117.0,7.68,2.0
@@ -14793,6 +14896,7 @@ Roman Plaza,,,2.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Li
 Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,114.0,7.5,2.0
 Việt Hưng,,,3.0,,Phố Việt Hưng,Phường Việt Hưng,Quận Long Biên,91.0,4.95,2.0
 The Zurich - Vinhomes Ocean Park,,,,,,,Huyện Gia Lâm,36.0,2.2,
+Stellar Garden,,,4.0,,Phố Lê Văn Thiêm,Phường Nhân Chính,Quận Thanh Xuân,151.0,8.9,3.0
 Discovery Central,,,2.0,,Đường Trần Phú,Phường Điện Biên,Quận Ba Đình,82.0,9.12,
 Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,54.0,3.59,1.0
 B.I.G Tower,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,94.0,5.2,2.0
@@ -14911,6 +15015,7 @@ Eurowindow River Park,,,2.0,,Đường 5,Xã Đông Hội,Huyện Đông Anh,77.
 VOV Mễ Trì,,,2.0,,Đường Lương Thế Vinh,Phường Mễ Trì,Quận Nam Từ Liêm,81.0,4.5,2.0
 B.I.G Tower,,,3.0,,,,Quận Nam Từ Liêm,135.0,5.95,2.0
 ,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,94.0,5.1,2.0
+Dolphin Plaza,,,2.0,,,,Quận Nam Từ Liêm,156.0,7.2,2.0
 Thăng Long Victory,,,3.0,,,Xã An Khánh,Huyện Hoài Đức,96.0,5.05,2.0
 Hà Nội Melody Residences,,,2.0,,,,Quận Hoàng Mai,75.0,3.64,2.0
 KĐTM Đại Kim - Định Công,,,2.0,,,Phường Đại Kim,Quận Hoàng Mai,65.0,3.38,1.0
@@ -14933,6 +15038,7 @@ Riverside Garden,,,3.0,,,,Quận Thanh Xuân,126.0,7.89,2.0
 PCC1 Triều Khúc,,,2.0,,Đường Triều Khúc,Phường Thanh Xuân Nam,Quận Thanh Xuân,78.0,3.5,2.0
 Hapulico Complex,,,3.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,140.0,8.18,2.0
 Green Diamond 93 Láng Hạ,,,1.0,,Phố Láng Hạ,Phường Láng Hạ,Quận Đống Đa,47.0,5.6,1.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.0,3.0
 A10-A14 Nam Trung Yên,,,2.0,,,Phường Yên Hòa,Quận Cầu Giấy,53.0,3.45,1.0
 Eurowindow Multi Complex,,,2.0,,,,Quận Cầu Giấy,100.0,7.0,
 Eurowindow Multi Complex,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,105.0,6.6,2.0
@@ -15084,6 +15190,7 @@ The Sapphire-Vinhomes Smart City,Tây,,2.0,,,,Quận Nam Từ Liêm,48.0,2.59,2.
 The Sapphire-Vinhomes Smart City,,,,,,,Quận Nam Từ Liêm,43.0,2.45,
 ,,,3.0,,Đường Phạm Hùng,Phường Mỹ Đình 1,Quận Nam Từ Liêm,95.0,5.26,2.0
 Imperia Sola Park,Đông,,2.0,,,,Quận Nam Từ Liêm,54.0,3.5,2.0
+Dolphin Plaza,,,3.0,,,,Quận Nam Từ Liêm,152.0,7.5,2.0
 Golden Field Mỹ Đình,,,3.0,,,,Quận Nam Từ Liêm,102.0,6.2,2.0
 Intracom1,,,3.0,,,,Quận Nam Từ Liêm,117.0,5.5,2.0
 Xuân Mai Complex,,,2.0,,Đường Tố Hữu,Phường Yên Nghĩa,Quận Hà Đông,55.0,2.9,1.0
@@ -15278,6 +15385,7 @@ Vinhomes Green Bay Mễ Trì,,,3.0,,Đường Đại lộ Thăng Long,Phường 
 The Sapphire-Vinhomes Smart City,,,1.0,,,,Quận Nam Từ Liêm,42.0,3.2,1.0
 Times City - Park Hill,,,2.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,80.0,6.8,
 Việt Đức Complex,,,3.0,,Đường Khuất Duy Tiến,Phường Nhân Chính,Quận Thanh Xuân,136.0,5.0,2.0
+Sakura Tower,,,5.0,,Đường Vũ Trọng Phụng,Phường Thanh Xuân Trung,Quận Thanh Xuân,155.0,7.8,3.0
 Dreamland Bonanza,,,2.0,,Đường Duy Tân,Phường Mỹ Đình 2,Quận Nam Từ Liêm,72.0,5.6,2.0
 ,,,2.0,,Đường Phan Đình Giót,Phường Phương Liệt,Quận Thanh Xuân,52.0,1.75,1.0
 Tòa Tháp Thiên Niên Kỷ,,,2.0,,Đường Quang Trung,Phường Yết Kiêu,Quận Hà Đông,62.0,3.6,2.0
@@ -15342,6 +15450,7 @@ Chung cư An Sinh,,,3.0,,Đường Lưu Hữu Phước,Phường Cầu Diễn,Qu
 VOV Mễ Trì,,,3.0,,,,Quận Nam Từ Liêm,86.0,4.8,2.0
 Hà Thành Plaza,,,3.0,,Phố Thái Thịnh,Phường Thịnh Quang,Quận Đống Đa,150.0,7.0,2.0
 King Palace,,,3.0,,Đường Nguyễn Trãi,Phường Thượng Đình,Quận Thanh Xuân,125.0,8.9,2.0
+Cienco1 Hoàng Đạo Thúy,,,3.0,,,,Quận Thanh Xuân,155.0,7.5,3.0
 Lumi Hanoi,,,1.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,43.0,3.0,1.0
 The Golden Armor,,,2.0,,Phố Nam Cao,Phường Giảng Võ,Quận Ba Đình,84.0,7.0,2.0
 The London - Vinhomes Ocean Park,,,1.0,,,,Huyện Gia Lâm,48.0,3.12,1.0
@@ -15366,6 +15475,7 @@ Vinhomes Green Bay Mễ Trì,,,2.0,,Đường Đại lộ Thăng Long,Phường 
 KĐT Xa La,,,2.0,,Phố Phùng Hưng,Phường Phúc La,Quận Hà Đông,68.0,2.75,2.0
 D’. Le Roi Soleil,,,2.0,,Đường Xuân Diệu,Phường Quảng An,Quận Tây Hồ,81.0,9.1,2.0
 Việt Đức Complex,,,3.0,,Đường Khuất Duy Tiến,Phường Nhân Chính,Quận Thanh Xuân,138.0,6.5,2.0
+B4 và B14 Kim Liên,,,3.0,,,,Quận Đống Đa,153.0,9.0,2.0
 Masteri Water Front,,,1.0,,,,Huyện Gia Lâm,35.0,2.6,1.0
 Goldmark City,,,2.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,86.0,3.3,2.0
 Vinhomes Green Bay Mễ Trì,,,1.0,,Đường Đại lộ Thăng Long,Phường Mễ Trì,Quận Nam Từ Liêm,42.0,2.3,1.0
@@ -15622,6 +15732,7 @@ Vinhomes Ocean Park Gia Lâm,,,1.0,,,,Huyện Gia Lâm,42.0,2.86,
 An Bình City,,,3.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,83.0,6.8,2.0
 Sails Tower,,,2.0,,,,Quận Hà Đông,62.0,2.85,1.0
 Khu Ngoại Giao Đoàn,,,3.0,,,Phường Xuân Tảo,Quận Bắc Từ Liêm,122.0,9.0,2.0
+N04 Trần Duy Hưng,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,155.0,9.5,3.0
 Eurowindow River Park,,,2.0,,,,Huyện Đông Anh,67.0,3.2,2.0
 The Pride,,,3.0,,,,Quận Hà Đông,92.0,4.2,2.0
 Vimeco II - Nguyễn Chánh,,,2.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,90.0,5.55,2.0
@@ -15646,6 +15757,7 @@ Sài Đồng,,,3.0,,Đường Nguyễn Lam,Phường Sài Đồng,Quận Long Bi
 The Victoria - Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,62.0,3.99,2.0
 ,,,,,Đường Sông Nhuệ,Phường Kiến Hưng,Quận Hà Đông,62.0,2.85,
 Imperia Sola Park,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,64.0,4.29,2.0
+CT2 Xuân Phương,,,4.0,,,,Quận Nam Từ Liêm,156.0,6.3,3.0
 Nam Xa la,,,2.0,,,Phường Phúc La,Quận Hà Đông,70.0,2.89,2.0
 The Miami,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,60.0,3.38,2.0
 ,Tây,,2.0,,,,Quận Cầu Giấy,60.0,3.85,1.0
@@ -15828,6 +15940,7 @@ C14 - Bộ Công An,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam 
 Sài Đồng,,,2.0,,,,Quận Long Biên,68.0,2.85,1.0
 ,,,3.0,,,,Quận Long Biên,84.0,3.57,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,,Huyện Gia Lâm,43.0,2.26,1.0
+Chung cư Thông Tấn Xuân Phương,,,4.0,,,Phường Xuân Phương,Quận Nam Từ Liêm,156.0,6.01,3.0
 Việt Hưng,,,3.0,,,,Quận Long Biên,84.0,3.57,2.0
 Harmony Square,,,3.0,,Đường Nguyễn Tuân,Phường Nhân Chính,Quận Thanh Xuân,91.0,5.2,2.0
 Sunshine City,,,2.0,,,Phường Đông Ngạc,Quận Bắc Từ Liêm,73.0,5.7,2.0
@@ -15991,6 +16104,7 @@ Iris Garden,Tây,,3.0,,Đường Trần Hữu Dực,Phường Cầu Diễn,Quậ
 90 Nguyễn Tuân,,,2.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,71.0,4.5,2.0
 A10-A14 Nam Trung Yên,,,2.0,,,,Quận Cầu Giấy,72.0,5.2,2.0
 Vinhomes D'Capitale,,,2.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,70.0,6.75,2.0
+Trung Hòa Nhân Chính,,,,,,,Quận Cầu Giấy,155.0,8.0,
 The Nine,,,2.0,,Đường Phạm Văn Đồng,Phường Mai Dịch,Quận Cầu Giấy,75.0,5.0,2.0
 Park Kiara,,,2.0,,,,Quận Hà Đông,60.0,5.4,1.0
 Xuân Mai Riverside,,,2.0,,Đường Thanh Bình,Phường Mỗ Lao,Quận Hà Đông,77.0,4.4,2.0
@@ -16219,6 +16333,7 @@ Mỹ Đình Pearl,,,3.0,,,Phường Phú Đô,Quận Nam Từ Liêm,94.0,7.0,2.0
 Masteri West Heights,,,,,,,Quận Nam Từ Liêm,43.0,2.8,
 ĐTM Dịch Vọng,,,2.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,95.0,6.6,2.0
 Rivera Park Hà Nội,,,2.0,,Đường Vũ Trọng Phụng,Phường Thanh Xuân Trung,Quận Thanh Xuân,72.0,5.2,2.0
+Cienco1 Hoàng Đạo Thúy,,,5.0,,,,Quận Thanh Xuân,156.0,7.7,3.0
 Imperia Garden,,,2.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,82.0,6.5,2.0
 Khai Sơn City,,,2.0,,,,Quận Long Biên,90.0,5.1,2.0
 KĐT Cổ Nhuế,,,3.0,,Đường Phạm Văn Đồng,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,117.0,7.3,2.0
@@ -16404,6 +16519,7 @@ Viha Complex,,,,,,Phường Thanh Xuân Trung,Quận Thanh Xuân,97.0,7.88,
 K35 Tân Mai,,,3.0,,Đường Tân Mai,Phường Tương Mai,Quận Hoàng Mai,96.0,7.0,2.0
 Cầu Giấy Center Point,,,3.0,,,,Quận Cầu Giấy,127.0,9.0,3.0
 Thăng Long Number One,,,3.0,,Đường Trần Duy Hưng,Phường Trung Hòa,Quận Cầu Giấy,111.0,5.55,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,9.0,3.0
 ,,,,,,,Huyện Gia Lâm,30.0,1.9,
 Mỹ Đình Pearl,,,1.0,,,,Quận Nam Từ Liêm,54.0,3.5,1.0
 KĐT Linh Đàm,,,2.0,,,,Quận Hoàng Mai,73.0,3.35,1.0
@@ -16437,6 +16553,7 @@ Thống Nhất Complex,,,2.0,,,,Quận Thanh Xuân,88.0,6.0,2.0
 Rivera Park Hà Nội,,,2.0,,,,Quận Thanh Xuân,71.0,5.8,2.0
 The Pavilion - Vinhomes Ocean Park,,,2.0,,Đường Lý Thánh Tông,Xã Dương Xá,Huyện Gia Lâm,54.0,3.1,2.0
 Mipec City View,,,2.0,,,,Quận Hà Đông,70.0,3.3,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,9.0,3.0
 ĐTM Dịch Vọng,Bắc,,3.0,,Đường Thành Thái,Phường Dịch Vọng,Quận Cầu Giấy,108.0,6.8,2.0
 Mỹ Đình II,Tây,,2.0,,Đường Lê Đức Thọ,Phường Mai Dịch,Quận Cầu Giấy,70.0,3.8,2.0
 HH1 Linh Đàm,,,2.0,,,,Quận Hoàng Mai,55.0,2.4,2.0
@@ -16623,6 +16740,7 @@ M3 - M4 Nguyễn Chí Thanh,,,3.0,,Đường Nguyễn Chí Thanh,Phường Lán
 D’. Le Roi Soleil,,,3.0,,Đường Xuân Diệu,Phường Quảng An,Quận Tây Hồ,146.0,9.25,2.0
 Sunshine Riverside,Bắc,,3.0,,,,Quận Tây Hồ,99.0,7.0,2.0
 Tây Hồ River View,,,3.0,,,,Quận Tây Hồ,109.0,5.35,2.0
+N01-T1 Ngoại Giao Đoàn,Tây,,3.0,,,Phường Xuân Đỉnh,Quận Bắc Từ Liêm,151.0,9.0,3.0
 Goldmark City,,,2.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,68.0,5.2,2.0
 ,,,3.0,,Đường Hoàng Quốc Việt,Phường Cổ Nhuế 1,Quận Bắc Từ Liêm,110.0,4.5,2.0
 Thành Phố Giao Lưu,,,2.0,,,,Quận Bắc Từ Liêm,86.0,3.9,2.0
@@ -16985,6 +17103,7 @@ Eurowindow River Park,,,,,,,Huyện Đông Anh,150.0,5.85,
 Khu Nhà ở KD Dịch Vọng,,,2.0,,,,Quận Cầu Giấy,92.0,5.2,2.0
 Hồ Gươm Plaza,,,3.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,130.0,6.6,2.0
 Seasons Avenue,,,3.0,,,Phường Mỗ Lao,Quận Hà Đông,111.0,6.5,2.0
+Mulberry Lane,,,4.0,,,Phường Mỗ Lao,Quận Hà Đông,154.0,8.0,3.0
 Xuân Mai Sparks Tower,,,2.0,,,,Quận Hà Đông,67.0,3.45,2.0
 The Pride,,,3.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,98.0,4.2,2.0
 The Terra An Hưng,,,3.0,,,Phường Dương Nội,Quận Hà Đông,97.0,5.7,2.0
@@ -17020,6 +17139,7 @@ D’. El Dorado II,,,3.0,,Đường Võ Chí Công,Phường Xuân La,Quận Tâ
 187 Tây Sơn,,,,,,,Quận Đống Đa,66.0,5.0,
 Vinhomes Ocean Park Gia Lâm,,,,,,,Huyện Gia Lâm,42.0,2.86,
 The Garden Hills - 99 Trần Bình,,,3.0,,,,Quận Nam Từ Liêm,89.0,5.6,2.0
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,5.0,2.0
 TNR The Nosta,,,1.0,,,,Quận Đống Đa,37.0,2.9,1.0
 ,,,2.0,,Đường Nguyên Hồng,Phường Láng Hạ,Quận Đống Đa,70.0,3.45,1.0
 The Matrix One,,,2.0,,Đường Lê Quang Đạo,Phường Mễ Trì,Quận Nam Từ Liêm,88.0,7.5,2.0
@@ -17142,10 +17262,12 @@ Goldmark City,,,2.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận B�
 Ecohome 3,Bắc,,2.0,,,,Quận Bắc Từ Liêm,70.0,4.2,2.0
 Moonlight 1 - An Lạc Green Symphony,,,2.0,,,,Huyện Hoài Đức,68.0,4.22,2.0
 Chung cư The Wisteria,,,3.0,,,,Huyện Hoài Đức,100.0,5.1,2.0
+,,,4.0,,Đường Nguyễn Chí Thanh,Phường Láng Hạ,Quận Đống Đa,155.0,8.7,2.0
 TNR The Nosta,,,3.0,,,,Quận Đống Đa,92.0,7.9,2.0
 M3 - M4 Nguyễn Chí Thanh,,,3.0,,Đường Nguyễn Chí Thanh,Phường Láng Hạ,Quận Đống Đa,114.0,8.66,2.0
 Cầu Giấy Center Point,,,3.0,,Đường Cầu Giấy,Phường Quan Hoa,Quận Cầu Giấy,130.0,8.0,2.0
 Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,117.0,7.18,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,153.0,7.89,3.0
 Trung Hòa Nhân Chính,,,2.0,,,,Quận Cầu Giấy,87.0,4.7,2.0
 ĐTM Dịch Vọng,,,2.0,,,,Quận Cầu Giấy,92.0,5.9,2.0
 Grand Sunlake,,,2.0,,Đường Trần Phú,Phường Văn Quán,Quận Hà Đông,92.0,3.68,2.0
@@ -17405,6 +17527,7 @@ The Beverly - Vinhomes Ocean Park,,,,,,Xã Đa Tốn,Huyện Gia Lâm,45.0,2.25,
 ,,,,,,,Quận Nam Từ Liêm,54.0,3.75,
 GoldSilk Complex,,,3.0,,,,Quận Hà Đông,127.0,6.4,3.0
 Ecohome 3,Đông,,2.0,,,,Quận Bắc Từ Liêm,63.0,3.45,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,9.1,2.0
 ,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,119.0,7.3,2.0
 Rivera Park Hà Nội,,,2.0,,Đường Vũ Trọng Phụng,Phường Thanh Xuân Trung,Quận Thanh Xuân,72.0,6.39,2.0
 KĐT Xa La,,,2.0,,,,Quận Hà Đông,78.0,3.24,2.0
@@ -17454,6 +17577,7 @@ Eco Lake View,Tây,,3.0,,Đường Đại Từ,Phường Đại Kim,Quận Hoàn
 Roman Plaza,,,3.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,101.0,6.0,3.0
 C14 - Bộ Công An,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,109.0,4.7,2.0
 Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,64.0,3.68,2.0
+Dolphin Plaza,,,3.0,,,,Quận Nam Từ Liêm,156.0,7.0,2.0
 ,,,3.0,,Đường Hồ Tùng Mậu,Phường Phú Diễn,Quận Bắc Từ Liêm,100.0,6.1,2.0
 Vinhomes Smart City,,,2.0,,,,Quận Nam Từ Liêm,55.0,4.15,1.0
 ,,,2.0,,Đường Nam Trung Yên,Phường Yên Hòa,Quận Cầu Giấy,60.0,3.35,1.0
@@ -17462,16 +17586,19 @@ Eurowindow Multi Complex,Đông,,3.0,,Đường Trần Duy Hưng,Phường Trung
 Ecolife Capitol,,,3.0,,,,Quận Nam Từ Liêm,103.0,6.3,2.0
 Xuân Mai Riverside,,,2.0,,Đường Thanh Bình,Phường Mỗ Lao,Quận Hà Đông,77.0,4.55,2.0
 Trung Hòa Nhân Chính,Bắc,,2.0,,,,Quận Cầu Giấy,63.0,4.1,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.5,3.0
 Sapphire Palace,,,3.0,,,,Quận Thanh Xuân,110.0,6.0,2.0
 KĐT Xa La,,,2.0,,,,Quận Hà Đông,52.0,2.55,1.0
 CT36 - Dream Home,,,2.0,,,,Quận Hoàng Mai,67.0,4.1,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,47.0,2.2,1.0
+Spring Home,,,3.0,,,,Quận Thanh Xuân,152.0,8.5,3.0
 Chung cư The Senique Hanoi,,,2.0,,,,Huyện Gia Lâm,64.0,4.35,2.0
 The Zurich - Vinhomes Ocean Park,,,2.0,,,Xã Đa Tốn,Huyện Gia Lâm,60.0,3.3,
 Eurowindow Multi Complex,,,3.0,,,,Quận Cầu Giấy,101.0,7.0,2.0
 Hei Tower Điện Lực,,,,,,,Quận Thanh Xuân,100.0,6.0,
 Goldmark City,Bắc,,,,,,Quận Bắc Từ Liêm,110.0,6.7,
 The Beverly - Vinhomes Ocean Park,,,2.0,,,Xã Đa Tốn,Huyện Gia Lâm,63.0,3.8,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,7.99,3.0
 Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,120.0,7.5,2.0
 Eurowindow Multi Complex,,,3.0,,,,Quận Cầu Giấy,122.0,7.9,2.0
 HH4 Linh Đàm,,,2.0,,Đường Linh Đường,Phường Hoàng Liệt,Quận Hoàng Mai,56.0,2.47,2.0
@@ -17505,6 +17632,7 @@ Legend Tower 109 Nguyễn Tuân,,,2.0,,,,Quận Thanh Xuân,80.0,6.0,2.0
 Park Hill Premium - Times City,Đông,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,100.0,8.3,2.0
 Park Hill Premium - Times City,Đông,,2.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,70.0,6.0,2.0
 The Matrix One,,,,,,,Quận Nam Từ Liêm,88.0,8.5,
+Dolphin Plaza,,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,7.8,2.0
 Vinhomes Smart City,,,,,,,Quận Nam Từ Liêm,55.0,3.6,
 The Pride,,,2.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,73.0,2.7,2.0
 Sun Square,,,3.0,,Đường Lê Đức Thọ,Phường Mỹ Đình 2,Quận Nam Từ Liêm,90.0,5.2,2.0
@@ -17533,6 +17661,7 @@ Discovery Complex,,,2.0,,Đường Cầu Giấy,Phường Dịch Vọng,Quận C
 ,,,2.0,,Đường Nam Trung Yên,Phường Yên Hòa,Quận Cầu Giấy,58.0,3.7,2.0
 KĐT Linh Đàm,,,2.0,,,Phường Đại Kim,Quận Hoàng Mai,72.0,3.35,1.0
 KĐT Xa La,,,2.0,,Phố Phùng Hưng,Phường Phúc La,Quận Hà Đông,75.0,3.46,2.0
+Vimeco II - Nguyễn Chánh,,,3.0,,,,Quận Cầu Giấy,151.0,9.0,2.0
 Sky Park Residence,,,2.0,,Đường Tôn Thất Thuyết,Phường Dịch Vọng Hậu,Quận Cầu Giấy,72.0,5.5,2.0
 HUD3 Nguyễn Đức Cảnh,Nam,,2.0,,,,Quận Hoàng Mai,52.0,3.79,1.0
 Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,119.0,6.9,2.0
@@ -17835,7 +17964,9 @@ Le Grand Jardin Sài Đồng,,,3.0,,Đường Huỳnh Văn Nghệ,Phường Sài
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,27.0,1.83,1.0
 The London - Vinhomes Ocean Park,,,2.0,,,,Huyện Gia Lâm,57.0,3.4,2.0
 Nam Trung Yên,,,2.0,,Đường Phạm Hùng,Phường Trung Hòa,Quận Cầu Giấy,52.0,3.2,1.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,8.3,3.0
 ,Nam,,3.0,,Đường Thịnh Liệt,Phường Thịnh Liệt,Quận Hoàng Mai,70.0,4.2,2.0
+Trung Hòa Nhân Chính,,,3.0,,,,Quận Cầu Giấy,151.0,8.3,3.0
 ,Nam,,3.0,,Đường Thịnh Liệt,Phường Thịnh Liệt,Quận Hoàng Mai,70.0,4.2,2.0
 Green Park Trần Thủ Độ,,,2.0,,Đường Trần Thủ Độ,Phường Hoàng Liệt,Quận Hoàng Mai,58.0,3.58,1.0
 Lancaster Luminaire,,,1.0,,,,Quận Đống Đa,45.0,5.0,1.0
@@ -17875,6 +18006,7 @@ PentStudio,,,1.0,,,,Quận Tây Hồ,76.0,5.8,2.0
 Vinhomes Ocean Park Gia Lâm,,,,,,,Huyện Gia Lâm,69.0,4.15,
 Royal City,Đông,,3.0,,,,Quận Thanh Xuân,130.0,9.5,2.0
 Chung cư Đại Thanh,,,1.0,,Đường Phan Trọng Tuệ,Xã Tả Thanh Oai,Huyện Thanh Trì,42.0,1.9,
+M3 - M4 Nguyễn Chí Thanh,,,4.0,,Đường Nguyễn Chí Thanh,Phường Láng Hạ,Quận Đống Đa,155.0,9.6,2.0
 Ecolife Capitol,,,2.0,,,,Quận Nam Từ Liêm,75.0,4.5,2.0
 Chung cư Đại Thanh,,,2.0,,Đường Phan Trọng Tuệ,Xã Tả Thanh Oai,Huyện Thanh Trì,60.0,2.63,2.0
 Anland Premium,,,3.0,,Đường Tố Hữu,Phường Dương Nội,Quận Hà Đông,85.0,5.3,2.0
@@ -18163,6 +18295,7 @@ Vinhomes Ocean Park Gia Lâm,,,1.0,,Đường 5,Xã Dương Xá,Huyện Gia Lâm
 The Sapphire-Vinhomes Smart City,,,1.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,43.0,2.92,1.0
 Vinhomes Ocean Park Gia Lâm,,,2.0,,Đường 5,Xã Dương Xá,Huyện Gia Lâm,68.0,2.85,2.0
 ,,,2.0,,Phố Quỳnh Mai,Phường Quỳnh Mai,Quận Hai Bà Trưng,70.0,3.0,
+Vimeco II - Nguyễn Chánh,,,4.0,,,,Quận Cầu Giấy,151.0,8.0,2.0
 ,,,2.0,,Đường Bằng Liệt,Phường Hoàng Liệt,Quận Hoàng Mai,68.0,4.0,2.0
 Vinhomes Ocean Park Gia Lâm,,,1.0,,,Xã Dương Xá,Huyện Gia Lâm,43.0,2.49,1.0
 Hà Nội Paragon,Đông,,3.0,,,,Quận Cầu Giấy,138.0,8.75,2.0
@@ -18304,6 +18437,7 @@ Bình Vượng 200 Quang Trung,,,2.0,,,,Quận Hà Đông,92.0,3.79,2.0
 Hà Nội Melody Residences,,,2.0,,Đường Bằng Liệt,Phường Hoàng Liệt,Quận Hoàng Mai,68.0,4.6,2.0
 Tây Nam Hồ Linh Đàm,,,2.0,,Đường Bằng A,Phường Hoàng Liệt,Quận Hoàng Mai,40.0,2.4,1.0
 89 Phùng Hưng,,,3.0,,Phố Phùng Hưng,Phường Phúc La,Quận Hà Đông,96.0,5.0,2.0
+Dolphin Plaza,Bắc,,3.0,,Phố Trần Bình,Phường Mỹ Đình 2,Quận Nam Từ Liêm,156.0,6.8,2.0
 ,,,2.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,63.0,6.2,1.0
 Rivera Park Hà Nội,,,2.0,,,,Quận Thanh Xuân,72.0,6.2,2.0
 Hateco Laroma,,,2.0,,Đường Huỳnh Thúc Kháng,Phường Láng Thượng,Quận Đống Đa,80.0,8.0,2.0
@@ -18356,6 +18490,7 @@ The Zen Residence,,,3.0,,Đường Pháp Vân,Phường Yên Sở,Quận Hoàng 
 Imperia Smart City,,,2.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,63.0,3.85,2.0
 ,,,4.0,,,Phường Giảng Võ,Quận Ba Đình,110.0,4.15,3.0
 The Nine,,,3.0,,Đường Phạm Văn Đồng,Phường Mai Dịch,Quận Cầu Giấy,92.0,8.1,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,152.0,8.8,3.0
 Vinhomes Smart City,,,2.0,,Đường Đại lộ Thăng Long,Phường Tây Mỗ,Quận Nam Từ Liêm,55.0,3.48,1.0
 Vimeco II - Nguyễn Chánh,,,3.0,,,,Quận Cầu Giấy,144.0,8.35,2.0
 The Golden Armor,,,2.0,,Phố Nam Cao,Phường Giảng Võ,Quận Ba Đình,90.0,6.5,2.0
@@ -18398,7 +18533,9 @@ HH2 Linh Đàm,,,2.0,,,Phường Hoàng Liệt,Quận Hoàng Mai,46.0,1.7,1.0
 Goldmark City,,,3.0,,,,Quận Bắc Từ Liêm,78.0,4.8,2.0
 ,,,2.0,,Phố Láng Hạ,Phường Láng Hạ,Quận Đống Đa,102.0,7.5,2.0
 Bamboo Airways Tower,,,3.0,,Đường Cầu Giấy,Phường Dịch Vọng,Quận Cầu Giấy,116.0,8.12,2.0
+Vimeco II - Nguyễn Chánh,,,5.0,,,,Quận Cầu Giấy,153.0,9.33,2.0
 Vimeco II - Nguyễn Chánh,,,4.0,,,,Quận Cầu Giấy,143.0,9.3,2.0
+B4 và B14 Kim Liên,,,3.0,,Đường Phạm Ngọc Thạch,Phường Kim Liên,Quận Đống Đa,153.0,9.65,2.0
 Vimeco II - Nguyễn Chánh,,,4.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,146.0,9.6,3.0
 Tân Việt Tower,,,2.0,,Đường Quốc lộ 32,Xã Đức Thượng,Huyện Hoài Đức,78.0,2.55,2.0
 Feliz Homes,Nam,,3.0,,,Phường Hoàng Văn Thụ,Quận Hoàng Mai,89.0,5.79,2.0
@@ -18591,6 +18728,7 @@ Eco Green City,,,2.0,,,,Huyện Thanh Trì,67.0,4.1,2.0
 Hyundai Hillstate,,,3.0,,,,Quận Hà Đông,139.0,8.95,2.0
 FLC Star Tower,,,3.0,,Đường Quang Trung,Phường Quang Trung,Quận Hà Đông,100.0,5.2,2.0
 Hồ Gươm Plaza,,,4.0,,Đường Trần Phú,Phường Mỗ Lao,Quận Hà Đông,130.0,6.6,2.0
+Vimeco II - Nguyễn Chánh,Bắc,,3.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,151.0,8.0,2.0
 Vimeco I - Phạm Hùng,,,2.0,,Đường Phạm Hùng,Phường Trung Hòa,Quận Cầu Giấy,90.0,5.2,2.0
 Eco Green City,,,2.0,,Đường Nguyễn Xiển,Xã Tân Triều,Huyện Thanh Trì,67.0,4.0,2.0
 Thanh Hà Mường Thanh,Đông,,2.0,,,Phường Kiến Hưng,Quận Hà Đông,80.0,2.96,2.0
@@ -18615,6 +18753,7 @@ Thanh Xuân Complex,,,3.0,,,,Quận Thanh Xuân,122.0,8.9,2.0
 Mỹ Đình Plaza 2,,,2.0,,Đường Nguyễn Hoàng,Phường Mỹ Đình 2,Quận Nam Từ Liêm,72.0,4.2,2.0
 Vinhomes Gardenia,,,3.0,,,,Quận Nam Từ Liêm,75.0,6.18,2.0
 Ecolife Capitol,,,3.0,,Đường Tố Hữu,Phường Trung Văn,Quận Nam Từ Liêm,110.0,5.4,2.0
+Vimeco II - Nguyễn Chánh,,,4.0,,Đường Nguyễn Chánh,Phường Trung Hòa,Quận Cầu Giấy,151.0,7.5,2.0
 Roman Plaza,,,2.0,,Đường Tố Hữu,Phường Đại Mỗ,Quận Nam Từ Liêm,70.0,4.0,2.0
 ,,,3.0,,Đường Nguyễn Cơ Thạch,Phường Cầu Diễn,Quận Nam Từ Liêm,85.0,4.85,2.0
 Eurowindow River Park,,,3.0,,Đường 5,Xã Đông Hội,Huyện Đông Anh,85.0,4.1,2.0
@@ -18686,6 +18825,7 @@ The Tonkin - Vinhomes Smart City,,,1.0,,,Phường Tây Mỗ,Quận Nam Từ Li�
 Feliz Homes,,,2.0,,,,Quận Hoàng Mai,78.0,5.1,2.0
 Times City - Park Hill,,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,119.0,8.05,2.0
 Times City - Park Hill,,,2.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,83.0,6.05,2.0
+Stellar Garden,,,3.0,,Phố Lê Văn Thiêm,Phường Nhân Chính,Quận Thanh Xuân,151.0,9.5,2.0
 The Victoria - Vinhomes Smart City,,,2.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,65.0,5.0,2.0
 Times City - Park Hill,,,3.0,,Đường Minh Khai,Phường Vĩnh Tuy,Quận Hai Bà Trưng,122.0,9.1,2.0
 HPC Landmark 105,Tây,,3.0,,Đường Tố Hữu,Phường La Khê,Quận Hà Đông,121.0,5.96,3.0
@@ -18731,6 +18871,8 @@ An Bình Plaza,,,2.0,,,,Quận Nam Từ Liêm,55.0,4.2,1.0
 Legend Tower 109 Nguyễn Tuân,,,2.0,,,,Quận Thanh Xuân,73.0,6.4,2.0
 Sunshine Riverside,Đông,,3.0,,,Phường Phú Thượng,Quận Tây Hồ,90.0,6.1,2.0
 Phú Gia Residence,,,3.0,,,,Quận Thanh Xuân,121.0,7.28,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,10.0,2.0
+Trung Hòa Nhân Chính,,,3.0,,Phố Hoàng Đạo Thúy,Phường Trung Hòa,Quận Cầu Giấy,151.0,10.0,2.0
 Imperia Sola Park,,,3.0,,,Phường Tây Mỗ,Quận Nam Từ Liêm,76.0,4.77,2.0
 Hapulico Complex,,,3.0,,,,Quận Thanh Xuân,140.0,8.4,2.0
 Phú Gia Residence,,,3.0,,,,Quận Thanh Xuân,116.0,7.3,2.0
@@ -18799,6 +18941,7 @@ Hei Tower Điện Lực,,,3.0,,Phố Ngụy Như Kon Tum,Phường Nhân Chính,
 Times Tower - HACC1 Complex Building,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,128.0,8.75,2.0
 90 Nguyễn Tuân,,,3.0,,Đường Nguyễn Tuân,Phường Thanh Xuân Trung,Quận Thanh Xuân,96.0,6.35,2.0
 Handi Resco Lê văn Lương,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,105.0,6.45,2.0
+Hapulico Complex,,,3.0,,Đường Nguyễn Huy Tưởng,Phường Thanh Xuân Trung,Quận Thanh Xuân,153.0,8.41,2.0
 The Golden Palm Lê Văn Lương,,,3.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,135.0,8.05,2.0
 Hà Nội Center Point,,,3.0,,Phố Hoàng Đạo Thúy,Phường Nhân Chính,Quận Thanh Xuân,88.0,6.0,2.0
 The Golden Palm Lê Văn Lương,,,2.0,,Đường Lê Văn Lương,Phường Nhân Chính,Quận Thanh Xuân,88.0,5.95,2.0

@@ -2,3 +2,7 @@ bs4
 requests
 json
 os
+streamlit
+sklearn
+xgboost
+joblib

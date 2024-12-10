@@ -21,7 +21,7 @@ def preprocess_data(data_path, save_data_path, save_pipeline_path):
     numerical_cols = ['acreage_value', 'noBed', 'noBathroom', 'soLau']
 
     # Fill missing numerical values with -1
-    for col in ['noBed', 'noBathroom']:
+    for col in ['noBed', 'noBathroom', 'soLau']:
         data[col] = data[col].fillna(-1)
     
     # Pipeline for categorical data

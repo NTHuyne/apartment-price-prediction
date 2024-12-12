@@ -1,0 +1,3 @@
+{"model": "LinearRegression", "params": {}, "mae": 0.5430011778432156, "rmse": 0.7464007534389618}
+{"model": "SVR", "params": {"C": 10, "gamma": 0.1}, "mae": 0.3281908997389119, "rmse": 0.5312160912593927}
+{"model": "XGBoost", "params": {"learning_rate": 0.2, "max_depth": 9, "n_estimators": 800}, "mae": 0.29146717439064146, "rmse": 0.420672339207667}

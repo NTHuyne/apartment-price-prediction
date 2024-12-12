@@ -1,0 +1,3 @@
+Model: LinearRegression | MAE: 0.6025 | RMSE: 0.8152
+Model: XGBoost | MAE: 0.5133 | RMSE: 0.7347
+Model: SVR | MAE: 0.5191 | RMSE: 0.7465

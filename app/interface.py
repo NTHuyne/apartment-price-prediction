@@ -3,6 +3,8 @@ import joblib
 import numpy as np
 import pandas as pd
 import json
+from tensorflow.keras.models import load_model
+import os
 
 preprocessor = joblib.load("../model/feature_engineering/preprocessor.pkl")
 linear_regression_model = joblib.load("../model/models/LinearRegression.pkl")
@@ -129,6 +131,7 @@ so_lau = st.sidebar.number_input("Số lầu", min_value=-1, value=-1)
 location_str = f"{district} - {sub_district}"
 
 if st.sidebar.button("🏡 Predict Price"):
+    lstm_model = load_model("../model/models/lstm_apartment_model.h5", compile=False)
     if du_an == '':
         du_an = np.nan
     if huong == '':
@@ -153,10 +156,22 @@ if st.sidebar.button("🏡 Predict Price"):
     print(df)
     input_params= preprocessor.transform(df)    
     predicted_price_1 = linear_regression_model.predict(input_params)[0]
+    print("Done")
     predicted_price_2 = svr_model.predict(input_params)[0]
+    print("Done")
     predicted_price_3 = xgboost_model.predict(input_params)[0]
+    print("Done")
+    timesteps = 1  # Define timesteps
+    input_params_new = input_params.toarray()
+    n_samples, n_features = input_params_new.shape
+    n_sequences = n_samples // timesteps  # Ensure divisible by timesteps
+
+    # Reshape to (samples, timesteps, features)
+    X_lstm = input_params_new[:n_sequences * timesteps, :].reshape(n_sequences, timesteps, n_features)
+    predicted_price_4 = lstm_model.predict(X_lstm)[0][0]
     
     st.success(f"💰 Predicted Prices for {location_str}:")
     st.write(f"Linear Regression Model: {predicted_price_1:,.2f} billion VND")
     st.write(f"SVR Model: {predicted_price_2:,.2f} billion VND")
     st.write(f"XGBoost Model: {predicted_price_3:,.2f} billion VND")
+    st.write(f"LSTM Model: {predicted_price_4:,.2f} billion VND")

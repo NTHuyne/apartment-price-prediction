@@ -1,7 +1,11 @@
 # apartment-price-prediction
 ## About The Project
 
-A small application using a data pipeline to collect data from various sources, process the data and predict the apartment price in Hanoi using machine & deep learning model.
+A data pipeline to collect data from various sources, process the data, and predict apartment prices in Hanoi using machine learning and deep learning models.
+
+**Data Sources**: The project collects data from alonhadat, bds68, and homedy.
+
+**Models Used**: The project uses Linear Regression, SVR, and XGBoost models.
 
 ## Getting started
 
@@ -21,8 +25,19 @@ A small application using a data pipeline to collect data from various sources, 
     pip install -r requirements.txt
     ```
 ## Running the Code
-- Running the .py and .ipynb files sequently
-- Select kernel and run all for all the .ipynb files
+
+1.  Clone the repository.
+2.  Install the dependencies using `pip install -r requirements.txt`.
+3.  Run the `src/modeling/model_training.py` file to train and save the models.
+4.  To run the demo app, install Streamlit using `pip install streamlit` and then run the `app/interface.py` file using `streamlit run app/interface.py`.
+
+## File Structure
+
+-   `data/`: Contains the raw, normalized, and finalized datasets.
+-   `model/`: Contains the feature engineering preprocessor and the trained models.
+-   `src/`: Contains the source code for data collection, data processing, feature engineering, modeling, and evaluation.
+-   `app/`: Demo interface with Streamlit
+
 ## Contributing
 | Name                   | Student ID | 
 |------------------------|------------|
